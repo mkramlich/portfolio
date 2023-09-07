@@ -1,0 +1,63 @@
+Mike Kramlich
+
+programmer, software engineer, technical lead/architect
+
+langs: Golang, C, Python, Java, Unixy shell scripting
+       in the past (so avoid, but can lean on): C++, Perl, JS, Objective-C
+
+OS:    Linux (POSIX/UNIX), macOS/OSX
+
+arch:  x86 family, 64-bit Intel, ARM, etc
+
+software types:
+    * web/Internet client & server-sides
+    * native desktop
+    * prefer "backend" focus now
+    * done native mobile app dev in past (can leverage it, but avoid)
+    * some embedded experience (eg. a kiosk), but avoid
+
+specialities:
+    * performance & scalability
+    * threading & concurrency
+    * Internet & web client/server
+    * distributed systems
+    * solving hard problems (ie. fun puzzles!) (eg. Heisenbugs)
+    * refactors & rewrites
+    * prototyping & MVPs
+    * pioneering or greenfield dev
+
+can do when needed (at least *somewhat*) / de facto:
+    * R&D
+    * DevOps
+    * systems programming
+
+overall:
+    * programming since age 10
+    * autodidact and voracious reader from childhood on
+    * care deeply about my craft
+    * strong opinions, weakly held
+    * decades of professional experience
+    * solved and shipped, over and over again
+    * good writer and oral communicator
+    * code samples in public repos on GitHub:
+          https://github.com/mkramlich
+
+misc:
+    * US citizen, Colorado resident, native US English speaker
+
+policies:
+    * no jerks
+    * no video calls (to clarify: not EARLY on, but fine once we're no longer strangers)
+    * no commutes (tho travel for work/biz reasons, when needed, is fine)
+    * prefer people who use my time efficiently
+    * prefer people who let me work for/with them in a way that maximizes what I can deliver
+    * prefer people who demonstrate how much they value me (not necessarily in $!)
+    * ... and I strive to do the same thing, in return
+    * will not talk/deal with third-party recuiters or outside headhunters
+
+side projects:
+    * Slartboz: making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a futuristic, sci-fi, post-apoc setting. style/theme for fans of Wasteland, Idiocracy, HHGG (Douglas Adams) and Dwarf Fortress. engine is homegrown. (been making game engines, as hobby, for decades)
+    * writing a book about software performance and scalability (sloooooowly)
+
+UPDATED: 2023 September 6 
+
