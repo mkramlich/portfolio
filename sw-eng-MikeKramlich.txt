@@ -9,7 +9,8 @@ OS:    Linux (POSIX/UNIX), macOS/OSX
 
 arch:  x86 family, 64-bit Intel, ARM, etc
 
-software types:
+types of software:
+
     * web/Internet client & server-sides
     * native desktop
     * prefer "backend" focus now
@@ -17,6 +18,7 @@ software types:
     * some embedded experience (eg. a kiosk), but avoid
 
 specialities:
+
     * performance & scalability
     * threading & concurrency
     * Internet & web client/server
@@ -27,25 +29,29 @@ specialities:
     * pioneering or greenfield dev
 
 can do when needed (at least *somewhat*) / de facto:
+
     * R&D
     * DevOps
     * systems programming
 
-overall:
+Overall
+
     * programming since age 10
-    * autodidact and voracious reader from childhood on
+    * auto-didact and voracious reader from childhood on
     * care deeply about my craft
     * strong opinions, weakly held
     * decades of professional experience
     * solved and shipped, over and over again
     * good writer and oral communicator
     * code samples in public repos on GitHub:
-          https://github.com/mkramlich
+              https://github.com/mkramlich
 
-misc:
+Misc
+
     * US citizen, Colorado resident, native US English speaker
 
-policies:
+Policies
+
     * no jerks
     * no video calls (to clarify: not EARLY on, but fine once we're no longer strangers)
     * no commutes (tho travel for work/biz reasons, when needed, is fine)
@@ -55,9 +61,30 @@ policies:
     * ... and I strive to do the same thing, in return
     * will not talk/deal with third-party recuiters or outside headhunters
 
-side projects:
-    * Slartboz: making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a futuristic, sci-fi, post-apoc setting. style/theme for fans of Wasteland, Idiocracy, HHGG (Douglas Adams) and Dwarf Fortress. engine is homegrown. (been making game engines, as hobby, for decades)
-    * writing a book about software performance and scalability (sloooooowly)
+Side Projects
 
-UPDATED: 2023 September 6 
+    * Slartboz: making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a futuristic, sci-fi, post-apoc setting. style/theme for fans of Wasteland/Fallout, Idiocracy, HHGG (Douglas Adams), Stranger Things, X-COM and Dwarf Fortress. The engine is homegrown. I've been making game engines (both as a hobby in my free time, and, sometimes for clients) for decades.
+              https://github.com/mkramlich/slartboz-pub
+
+    * latlearn.go (LatencyLearner): latency perf instrumentation & reporting lib for Golang
+              https://github.com/mkramlich/latlearn
+
+    * writing a book about software performance and scalability
+              https://github.com/mkramlich/perfscalebook
+
+Writing Online
+
+    * Time Wasters: What & Why To Avoid
+              https://synystron.substack.com/p/time-wasters-what-and-why-to-avoid
+    * Video Calls Good and Bad
+              https://synystron.substack.com/p/video-calls-good-and-bad
+
+Online Presence
+
+    GitHub:   https://github.com/mkramlich
+    Substack: https://synystron.substack.com
+    HN:       https://news.ycombinator.com/user?id=syngrog66
+    Mastodon: https://toot.io/@synlogic
+
+UPDATED: 2023 September 11
 
