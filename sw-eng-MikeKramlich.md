@@ -69,7 +69,7 @@ Policies
 * prefer people who let me work for/with them in a way that maximizes what I can deliver
 * prefer people who demonstrate how much they value me (not necessarily in $!)
 * ... and I strive to do the same thing, in return
-* will not talk/deal with third-party recuiters or outside headhunters
+* will not talk/deal with third-party recruiters or outside headhunters
 
 Side Projects
 
