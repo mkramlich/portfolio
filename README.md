@@ -6,7 +6,7 @@ A "one-stop shop" for that kind of thing.
 
 What's Here?
 
-* a concise, one-sheet *overview* of my professional value, as a software engineer:
+* a concise, one-sheet **overview** of my professional value, as a software engineer:
 
 [.md]( ./sw-eng-MikeKramlich.md)
 and
