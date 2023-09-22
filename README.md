@@ -6,7 +6,10 @@ A "one-stop shop" for that kind of thing.
 
 What's Here?
 
-[./sw-eng-MikeKramlich.md](./sw-eng-MikeKramlich.md) and [.txt](./sw-eng-MikeKramlich.txt):
-    concise, one-sheet overview of my professional value, as a software engineer
+* a concise, one-sheet *overview* of my professional value, as a software engineer:
+
+[.md]( ./sw-eng-MikeKramlich.md)
+and
+[.txt](./sw-eng-MikeKramlich.txt)
 
 Mike
