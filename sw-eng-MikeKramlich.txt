@@ -2,8 +2,9 @@ Mike Kramlich
 
 programmer, software engineer, technical lead/architect
 
-langs: Golang, C, Python, Java, Unixy shell scripting
-       in the past (so avoid, but can lean on): C++, Perl, JS, Objective-C
+langs: Golang (Go), C, Python, Java, Unixy shell scripting
+
+in the past (so avoid, but can lean on): JavaScript (JS), C++, Objective-C, Perl
 
 OS:    Linux (POSIX/UNIX), macOS/OSX
 
