@@ -95,10 +95,11 @@ Writing Online
 
 Online Presence
 
+* *email*     [groglogic@gmail.com]{mailto:groglogic@gmail.com)
 * *GitHub:*   [https://github.com/mkramlich]
 * *Substack:* [https://synystron.substack.com]
 * *Mastodon:* [https://toot.io/@synlogic]
 * *HN:*       [https://news.ycombinator.com/user?id=syngrog66]
 
-UPDATED: 2023 September 22
+UPDATED: 2023 September 26
 
