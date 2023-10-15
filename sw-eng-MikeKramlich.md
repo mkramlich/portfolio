@@ -62,14 +62,14 @@ Misc
 
 Policies
 
-* no *jerks*
-* no *video* calls (to clarify: not EARLY on, but fine once we're no longer strangers)
-* no *commutes* (tho *travel* for work/biz reasons, when needed, is fine)
 * prefer people who use my time *efficiently*
 * prefer people who let me work for/with them in a way that *maximizes* what I can deliver
 * prefer people who *demonstrate* how much they value me (not necessarily in $!)
 * ... and I strive to do the same thing, in return
 * will not talk/deal with *third-party* recruiters or *outside* headhunters
+* no *commutes* (tho *travel* for work/biz reasons, when needed, is fine)
+* no *video* calls (to clarify: not EARLY on, but fine once we're no longer strangers)
+* no *jerks*
 
 Side Projects
 
@@ -93,6 +93,11 @@ Writing Online
 * *Time Wasters: What & Why To Avoid*
     https://synystron.substack.com/p/time-wasters-what-and-why-to-avoid
 
+Talks & Presentations
+
+* Computer Hardware & Software Performance Talk #1
+    https://youtu.be/jQf4jFGG76M
+
 Online Presence
 
 * **email:**    [groglogic@gmail.com](mailto:groglogic+ghport@gmail.com)
@@ -101,5 +106,5 @@ Online Presence
 * **Mastodon:** https://toot.io/@synlogic
 * **HN:**       https://news.ycombinator.com/user?id=syngrog66
 
-UPDATED: 2023 September 27
+UPDATED: 2023 October 15
 
