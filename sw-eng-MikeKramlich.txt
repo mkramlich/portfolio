@@ -95,8 +95,8 @@ Writing Online
 
 Talks & Presentations
 
-* Computer Hardware & Software Performance Talk #1
-    https://youtu.be/jQf4jFGG76M
+* Computer Hardware & Software Performance (Talk 1, v3)
+    https://youtu.be/rBAiNu7fhy4
 
 Online Presence
 
@@ -106,5 +106,5 @@ Online Presence
 * **Mastodon:** https://toot.io/@synlogic
 * **HN:**       https://news.ycombinator.com/user?id=syngrog66
 
-UPDATED: 2023 October 15
+UPDATED: 2023 October 19
 
