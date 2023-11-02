@@ -42,7 +42,7 @@ Overall
 * care deeply about my craft
 * strong opinions, weakly held
 * decades of professional experience
-* FOSS contributor, tool-maker and lib author (eg. latlearn on GitHub)
+* FOSS contributor, tool-maker and lib author (eg. LatLearn on GitHub)
 * solved and shipped, over and over again
 * good writer and oral communicator
 * code samples in public repos on GitHub:
@@ -76,7 +76,7 @@ Side Projects
 * **Slartboz:** making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a futuristic, sci-fi, post-apoc setting. style/theme for fans of Wasteland/Fallout, Idiocracy, HHGG (Douglas Adams), Stranger Things, X-COM and Dwarf Fortress. The engine is homegrown. And btw: I've been making game engines (both as an unpaid hobby in my free time, and, sometimes for clients or for the indie game market) for decades. My first public Rogue-like game (Dead By Zombie, in 2007) appeared to be the world's 1st commerical Rogue-like and the 1st one known to be written in Python.
     https://github.com/mkramlich/slartboz-pub
 
-* **latlearn:** latency perf instrumentation & reporting lib for Golang (as FOSS)
+* **LatLearn:** latency perf instrumentation & reporting lib for Golang (as FOSS)
     https://github.com/mkramlich/latlearn
 
 * writing a **book** (about *software performance and scalability*):
@@ -95,8 +95,8 @@ Writing Online
 
 Talks & Presentations
 
-* Computer Hardware & Software Performance (Talk 1, v3)
-    https://youtu.be/rBAiNu7fhy4
+* Computer Hardware & Software Performance (Talk 1, v4)
+    https://youtu.be/nR7oPrmyCP4
 
 Online Presence
 
@@ -106,5 +106,5 @@ Online Presence
 * **Mastodon:** https://toot.io/@synlogic
 * **HN:**       https://news.ycombinator.com/user?id=syngrog66
 
-UPDATED: 2023 October 19
+UPDATED: 2023 November 1
 
