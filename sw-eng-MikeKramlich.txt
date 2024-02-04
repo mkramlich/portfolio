@@ -73,21 +73,23 @@ Policies
 
 Side Projects
 
-* **Slartboz:** making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a futuristic, sci-fi, post-apoc setting. style/theme for fans of Wasteland/Fallout, Idiocracy, HHGG (Douglas Adams), Stranger Things, X-COM and Dwarf Fortress. The engine is homegrown. And btw: I've been making game engines (both as an unpaid hobby in my free time, and, sometimes for clients or for the indie game market) for decades. My first public Rogue-like game (Dead By Zombie, in 2007) appeared to be the world's 1st commerical Rogue-like and the 1st one known to be written in Python.
-    https://github.com/mkramlich/slartboz-pub
-
 * **LatLearn:** latency perf instrumentation & reporting lib for Golang (as FOSS)
     https://github.com/mkramlich/latlearn
 
 * writing a **book** (about *software performance and scalability*):
     https://github.com/mkramlich/perfscalebook
 
+* **Slartboz:** making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a futuristic, sci-fi, post-apoc setting. style/theme for fans of Wasteland/Fallout, Idiocracy, HHGG (Douglas Adams), Stranger Things, X-COM and Dwarf Fortress. The engine is homegrown. And btw: I've been making game engines (both as an unpaid hobby in my free time, and, sometimes for clients or for the indie game market) for decades. My first public Rogue-like game (Dead By Zombie, in 2007) appeared to be the world's 1st commerical Rogue-like and the 1st one known to be written in Python.
+    https://github.com/mkramlich/slartboz-pub
+
 Writing Online
 
-* *CLIFMO: My Software Engineering Philosophy, Preferences and Practices*
-    https://drive.google.com/file/d/1_zl1euz6sIhJ2VFonkaDS9grHNATBJfo/view?usp=sharing
+* *Fixing Java Thread & Database Connection Leaks For Fun & Profit*
+    https://synystron.substack.com/p/fixing-java-thread-and-database-connection
 * *Software Performance & Scalability: A Cheatsheet*
     https://drive.google.com/file/d/1DsUG90gEkBtEsHJ7qJWR-VWLxHSTspcA/view
+* *CLIFMO: My Software Engineering Philosophy, Preferences and Practices*
+    https://drive.google.com/file/d/1_zl1euz6sIhJ2VFonkaDS9grHNATBJfo/view?usp=sharing
 * *Video Calls Good and Bad*
     https://synystron.substack.com/p/video-calls-good-and-bad
 * *Time Wasters: What & Why To Avoid*
@@ -106,5 +108,5 @@ Online Presence
 * **Mastodon:** https://toot.io/@synlogic
 * **HN:**       https://news.ycombinator.com/user?id=syngrog66
 
-UPDATED: 2023 November 1
+UPDATED: 2024 February 4
 
