@@ -159,7 +159,7 @@ Personal Projects
 * **Ganymede:** conceived, designed and coded an original sci-fi adventure game with spaceships with a real-time event-driven engine in a topdown-POV 2D GUI desktop app.
     tech: Python, PyGame, OO, Mac
 
-* **EduGamon:** conceived, designed, coded an original system for web-based, text-oriented educational software which teaches the student lessons via user interaction with a first-person story-like engine and a hand- crafted world state sim. stateful per student, load balanced, an event engine, a scoring system, a custom API for creating sims, defining lessons, and several app-specific admin tools.
+* **EduGamon:** conceived, designed, coded an original system for web-based, text-oriented educational software which teaches the student lessons via user interaction with a first-person story-like engine and a hand-crafted world state sim. stateful per student, load balanced, an event engine, a scoring system, a custom API for creating sims, defining lessons, and several app-specific admin tools.
     tech: Python, web.py, OO, HTTP, HTML, Javascript, sqlite3, nginx, bash, Linux, Linode, DNS
 
 * **Shattered Stars (aka Galactic War):** conceived, designed and coded an original turn-based strategy computer war game in Java for Windows and Linux. Play mechanics were based loosely on Axis & Allies. It featured 2D bitmap graphics, animations, sound effects, music, hotseat multi-player, multiple/concurrent threads (background tasks like animations or loads), events, sprites, curated scenarios, semi-random world generation, simulated battles and maps based on Voronoi diagrams. I sent copies and demonstrated it to Greg Costikyan (designer of the Paranoia RPG) and Johnny Wilson (retired Editor-in-Chief of Computer Gaming World magazine.) They accepted it for publication by their indie game distributor startup, Manifesto Games. Johnny wrote and published in his online blog a preview based on his play and analysis of a pre-publication build. Greg and Johnny both gave me game design feedback and encouragement. Their startup never got enough total sales revenue traction (this was before Steam and the App Stores) so they eventually closed it (releasing the web domain.) My Shattered Stars codebase lives still, might republish it some day. I created many in-house Java lib APIs and tools for this game that I reused with other apps. Feel free to contact Greg or Johnny to confirm all of this. I was fortunate to have friends and work colleagues do playtests and give feedback on my prod candidate builds.
@@ -221,7 +221,7 @@ Personal Projects
 * **Organism:** conceived, designed and coded an original strategy desktop GUI computer game about rival colonies on a shared planet in a sci-fi setting. turn-based, top-down 2D perspective. I also designed and drew all the graphical elements for icons and textures.
     tech: C/C++, Windows
 
-* **Valkyrie:** conceived, designed and coded an original strategy desktop GUI computer game, involving turn- based battles between fleets of starships in 2D space. also created all the graphical elements.
+* **Valkyrie:** conceived, designed and coded an original strategy desktop GUI computer game, involving turn-based battles between fleets of starships in 2D space. also created all the graphical elements.
     tech: C, Windows
 
 Testimonials
