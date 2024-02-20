@@ -109,7 +109,7 @@ Contract Work
     tech: C, mmap, signals, fibers, POSIX, Linux, Solaris
 
 * created a novel real estate "AVM" price prediction engine for a client using multi-dimensional OLS regression on rich labeled tabular data sets from multiple sources including regional broker listing agencies.
-    tech: Python, numpy, pandas, scipy, statsmodels, sqlalchemy, ElementTree, gnuplot, pandoc, SQL, sqlite3, bash, machine learning (ML), the then-dominent real estate listing service protocols/formats (cant remember names anymore)
+    tech: Python, numpy, pandas, scipy, statsmodels, sqlalchemy, ElementTree, gnuplot, pandoc, SQL, sqlite3, bash, machine learning (ML), the then-dominant real estate listing service protocols/formats (can't remember names anymore)
 
 * created a Bayesian inference engine for a client in the online insurance industry.
     tech: Java, Python, SQL, bash, Linux, machine learning (ML)
