@@ -114,7 +114,7 @@ Contract Work
 * created a Bayesian inference engine for a client in the online insurance industry.
     tech: Java, Python, SQL, bash, Linux, machine learning (ML)
 
-* fixed legacy bugs and added features to a “carnival style” web game.
+* fixed legacy bugs and added features to a "carnival style" web game.
     tech: Flash, ActionScript 3.0, Python, Django, Audacity, Gimp, Linux
 
 * fixed legacy bugs and significantly improved stability, latency and scalability of an iOS app in the geospatial imaging industry.
