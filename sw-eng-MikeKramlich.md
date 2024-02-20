@@ -148,13 +148,16 @@ Contract Work
 
 Personal Projects
 
-* **Aviron 7:** conceived, designed and coded this 2D side POV GUI game about an alien outbreak at a sci-fi colony, featuring vector-drawn ships (with mutable state and animations), user interaction, and a pauseable "real-time" looped game engine. more of a little experiment than a full game. (Python, PyGame, Mac)
+* **Aviron 7:** conceived, designed and coded this 2D side POV GUI game about an alien outbreak at a sci-fi colony, featuring vector-drawn ships (with mutable state and animations), user interaction, and a pauseable "real-time" looped game engine. more of a little experiment than a full game.
+    tech: Python, PyGame, Mac
     code: https://github.com/mkramlich/Aviron7
 
-* **Warconomy:** conceived, designed and coded a simple turn-based strategy game with a text CLI. (Python, Twisted, client/server, sockets)
+* **Warconomy:** conceived, designed and coded a simple turn-based strategy game with a text CLI.
+    tech: Python, Twisted, client/server, sockets
     code: https://github.com/mkramlich/warconomy
 
-* **Ganymede:** conceived, designed and coded an original sci-fi adventure game with spaceships with a real-time event-driven engine in a topdown-POV 2D GUI desktop app. (Python, PyGame, OO, Mac)
+* **Ganymede:** conceived, designed and coded an original sci-fi adventure game with spaceships with a real-time event-driven engine in a topdown-POV 2D GUI desktop app.
+    tech: Python, PyGame, OO, Mac
 
 * **EduGamon:** conceived, designed, coded an original system for web-based, text-oriented educational software which teaches the student lessons via user interaction with a first-person story-like engine and a hand- crafted world state sim. stateful per student, load balanced, an event engine, a scoring system, a custom API for creating sims, defining lessons, and several app-specific admin tools.
     tech: Python, web.py, OO, HTTP, HTML, Javascript, sqlite3, nginx, bash, Linux, Linode, DNS
