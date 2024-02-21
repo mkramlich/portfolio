@@ -6,9 +6,9 @@ langs: Golang (Go), C, Python, Java, Unixy shell scripting
 
 in the past (so avoid, but can lean on): JavaScript (JS), C++, Objective-C, Perl
 
-OS:    Linux (POSIX/UNIX), macOS/OSX
+OS: Linux (POSIX/UNIX), macOS/OSX
 
-arch:  x86 family, 64-bit Intel, ARM, etc
+arch: x86 family, 64-bit Intel, ARM, etc
 
 general types of software:
 
@@ -57,22 +57,6 @@ Employer Highlights
 * **The US State Department** -- tech lead on natsec-related "counter-disinfo" project
 * **Orbitz/Cheaptickets** -- senior engineer in Ops/Arch and core/cross-cutting tech (JVM, GC/leaks/crashes, logs, caches, sessions, thread pools (eg. fixing critical concurrency bugs), database conn layer, perf issue resolution, pager on-call if outages)
 * **Burger King** -- fry guy, closer, opener
-
-Misc
-
-* US citizen, Colorado resident, native US English speaker
-* also: semi-pro/hobby fiction *writer* and *game designer*
-
-Policies
-
-* prefer people who use my time *efficiently*
-* prefer people who let me work for/with them in a way that *maximizes* what I can deliver
-* prefer people who *demonstrate* how much they value me (not necessarily in $!)
-* ... and I strive to do the same thing, in return
-* will not talk/deal with *third-party* recruiters or *outside* headhunters
-* no *commutes* (tho *travel* for work/biz reasons, when needed, is fine)
-* no *video* calls (to clarify: not EARLY on, but fine once we're no longer strangers)
-* no *jerks*
 
 Side Projects
 
@@ -237,6 +221,22 @@ Testimonials
 * "Mike created a high quality, stable iPhone app that met our specifications."
 
 * "I worked with Michael Kramlich when I was the director of software engineering at BlockDot. Michael was the lead delivery engineer for Blockdot's Khaki Pants Pete iOS app. Working with Michael was absolutely fantastic! He is an excellent engineer, has a great 'get it done' drive to ship code, and goes above and beyond in making smart decisions that save time and improve the app experience. A perfect example of this is Michael's initiative to take the original Khaki Pants Pete spec and see the opportunity to make the underlying iOS game engine more generic and flexible via a data-driven XML game file format that made adjusting the game play, settings, actions and visual experience very easy. This single innovation allowed us to ship on time with a great experience despite the multitude of late 'change requests' from the customer that so often occur in our industry. I can't wait to work with him again!"
+
+Culture & Policies
+
+* prefer people who use my time *efficiently*
+* prefer people who let me work for/with them in a way that *maximizes* what I can deliver
+* prefer people who *demonstrate* how much they value me (not necessarily in $!)
+* ... and I strive to do the same thing, in return
+* will not talk/deal with *third-party* recruiters or *outside* headhunters
+* no *commutes* (though *travel* for work/biz reasons, when needed, is fine)
+* no *video* calls, early (ok once we're teammates or friends)
+* no *jerks*
+
+Misc
+
+* US citizen, Colorado resident, native US English speaker
+* also: semi-pro/hobby fiction *writer* and *game designer*
 
 Online Presence
 
