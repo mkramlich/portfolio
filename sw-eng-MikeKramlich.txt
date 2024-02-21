@@ -170,12 +170,6 @@ Personal Projects
     tech: Python, curses, OOP, game character AI (no NNs or LLMs, haha), PayPal
     code: https://github.com/mkramlich/Dead_By_Zombie
 
-* **Once Upon Orion (game) and Pythulhu (engine):** conceived, designed and coded an original game and game engine with a terminal text UI.
-    tech: Python
-
-* **Cursed Mansion (game) and LittleAdventures (engine):** conceived, designed and coded an original game and game engine with a web UI.
-    tech: Python, web.py
-
 * **Apocalypse Dawn:** conceived, designed and coded an original computer adventure/strategy game set in a post-apocalyptic USA. Loosely inspired by an 80's 8-bit era game named Road War 2000, crossed with elements of the original Wasteland.
     tech: C, curses, gcc, Linux, Mac and Windows (via CygWin)
     code: https://github.com/mkramlich/miscpub/tree/master/ApocalypseDawn
@@ -248,5 +242,5 @@ Online Presence
 * **Mastodon:** https://toot.io/@synlogic
 * **HN:**       https://news.ycombinator.com/user?id=syngrog66
 
-UPDATED: 2024 February 19
+UPDATED: 2024 February 20
 
