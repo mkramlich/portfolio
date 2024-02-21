@@ -89,12 +89,16 @@ Writing Online
 
 * *Fixing Java Thread & Database Connection Leaks For Fun & Profit*
     https://synystron.substack.com/p/fixing-java-thread-and-database-connection
+
 * *Software Performance & Scalability: A Cheatsheet*
     https://drive.google.com/file/d/1DsUG90gEkBtEsHJ7qJWR-VWLxHSTspcA/view
+
 * *CLIFMO: My Software Engineering Philosophy, Preferences and Practices*
     https://drive.google.com/file/d/1_zl1euz6sIhJ2VFonkaDS9grHNATBJfo/view?usp=sharing
+
 * *Video Calls Good and Bad*
     https://synystron.substack.com/p/video-calls-good-and-bad
+
 * *Time Wasters: What & Why To Avoid*
     https://synystron.substack.com/p/time-wasters-what-and-why-to-avoid
 
