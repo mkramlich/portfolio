@@ -67,7 +67,8 @@ Side Projects
     https://github.com/mkramlich/perfscalebook
 
 * **Slartboz:** making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a futuristic, sci-fi, post-apoc setting. style/theme for fans of Wasteland/Fallout, Idiocracy, HHGG (Douglas Adams), Stranger Things, X-COM and Dwarf Fortress. The engine is homegrown. And btw: I've been making game engines (both as an unpaid hobby in my free time, and, sometimes for clients or for the indie game market) for decades. My first public Rogue-like game (Dead By Zombie, in 2007) appeared to be the world's 1st commerical Rogue-like and the 1st one known to be written in Python.
-    https://github.com/mkramlich/slartboz-pub
+    tech: Golang (Go), ncurses (goncurses), VLC (via Go lib), LatLearn
+    promo: https://github.com/mkramlich/slartboz-pub
 
 Writing Online
 
