@@ -10,6 +10,8 @@ OS: Linux (POSIX/UNIX), macOS/OSX
 
 arch: x86 family, 64-bit Intel, ARM, etc
 
+misc experience: SQL (sqlite, MySQL & Postgres); Docker; Kubernetes (some, once); AWS (mainly EC2 & S3)
+
 general types of software:
 
 * web/Internet client & server-sides
@@ -225,6 +227,8 @@ Testimonials
 
 Culture & Policies
 
+* try to stay in a state of bliss; have fun; laugh; try to make others laugh
+* try to always be learning, improving & helping teach or inspire others
 * prefer people who use my time *efficiently*
 * prefer people who let me work for/with them in a way that *maximizes* what I can deliver
 * prefer people who *demonstrate* how much they value me (not necessarily in $!)
@@ -238,6 +242,8 @@ Misc
 
 * US citizen, Colorado resident, native US English speaker
 * also: semi-pro/hobby fiction *writer* and *game designer*
+* some hobbies: gaming, wargaming, LEGO, watching football, reading sci-fi & history
+* weird/cool/geeky claims to fame: met Prince; graduate level study of Nazi Germany; won a Diplomacy tournament (as Russia), then many years later worked for State Dept to defend US from Russia: you know, as one does!); wrote a "comedy" that made readers cry (doh!)
 
 Online Presence
 
@@ -247,5 +253,5 @@ Online Presence
 * **Mastodon:** https://toot.io/@synlogic
 * **HN:**       https://news.ycombinator.com/user?id=syngrog66
 
-UPDATED: 2024 February 20
+UPDATED: 2024 February 21
 
