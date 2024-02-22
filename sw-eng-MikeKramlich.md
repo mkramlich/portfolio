@@ -243,7 +243,7 @@ Misc
 * US citizen, Colorado resident, native US English speaker
 * also: semi-pro/hobby fiction *writer* and *game designer*
 * some hobbies: gaming, wargaming, LEGO, watching football, reading sci-fi & history
-* weird/cool/geeky claims to fame: met Prince; graduate level study of Nazi Germany; won a Diplomacy tournament (as Russia), then many years later worked for State Dept to defend US from Russia: you know, as one does!); wrote a "comedy" that made readers cry (doh!)
+* weird/cool/geeky claims to fame: met Prince; graduate level study of Nazi Germany; won a Diplomacy tournament (as Russia), then many years later worked for State Dept to defend US from Russia (you know, as one does!); wrote a "comedy" that made readers cry (doh!)
 
 Online Presence
 
