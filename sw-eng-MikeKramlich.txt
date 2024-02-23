@@ -8,9 +8,7 @@ in the past (so avoid, but can lean on): JavaScript (JS), C++, Objective-C, Perl
 
 OS: Linux (POSIX/UNIX), macOS/OSX
 
-arch: x86 family, 64-bit Intel, ARM, etc
-
-misc experience: SQL (sqlite, MySQL & Postgres); Docker; Kubernetes (some, once); AWS (mainly EC2 & S3)
+misc experience: SQL (sqlite, MySQL & Postgres); Docker; Kubernetes (some, once); AWS (mainly EC2 & S3); TCP/IP; sockets; JSON; XML; Terminal-based workflow & CLI tool ecosystem; Apache; Nginx; memcached; Redis
 
 general types of software:
 
@@ -23,28 +21,30 @@ general types of software:
 specialities / expertise:
 
 * performance & scalability
+* latency optimization (instrumentation, monitoring, tuning)
 * threading & concurrency
 * Internet & web client/server
 * distributed systems
 * solving hard problems (ie. fun puzzles!) (eg. Heisenbugs)
+* prod incident on-call/pager & troubleshooting
 * refactors & rewrites
 * prototyping & MVPs
 * pioneering or greenfield dev
 * brainstorming
 
-roles can play (and enjoy):
+roles can play (and enjoy; not exhaustive, just examples):
 
 * R&D
 * systems programming
 * perf lead
 * tech lead of small teams
-* tech cofounder of startup
 
 Overall
 
 * programming since age 10
 * auto-didact and voracious reader from childhood on
 * care deeply about my craft
+* solid mental model of computing systems & associated fundamentals
 * strong opinions, weakly held
 * decades of professional experience
 * FOSS contributor, tool-maker and lib author (eg. LatLearn on GitHub)
@@ -243,7 +243,7 @@ Misc
 * US citizen, Colorado resident, native US English speaker
 * also: semi-pro/hobby fiction *writer* and *game designer*
 * some hobbies: gaming, wargaming, LEGO, watching football, reading sci-fi & history
-* weird/cool/geeky claims to fame: met Prince; graduate level study of Nazi Germany; won a Diplomacy tournament (as Russia), then many years later worked for State Dept to defend US from Russia (you know, as one does!); wrote a "comedy" that made readers cry (doh!)
+* weird/cool/geeky claims to fame: met Prince (he is MUCH shorter than you expect); ran into the Frodo actor (MUCH taller than you expect); graduate level study of Nazi Germany; won a Diplomacy tournament (as Russia), then many years later worked for State Dept to defend US from Russia (you know, as one does!); wrote a "comedy" that made readers cry (doh!); found flaw in Terence Tao math blog post & told him (NOT in his math, just in his claimed logic; he then fixed it and thanked me!); longtime senior editor of Computer Gaming World magazine (Johnny Wilson) wrote a review of one of my computer games; Manning once offered me contract to author a Python book (I declined)
 
 Online Presence
 
@@ -253,5 +253,5 @@ Online Presence
 * **Mastodon:** https://toot.io/@synlogic
 * **HN:**       https://news.ycombinator.com/user?id=syngrog66
 
-UPDATED: 2024 February 21
+UPDATED: 2024 February 22
 
