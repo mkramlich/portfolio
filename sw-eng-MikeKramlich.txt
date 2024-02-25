@@ -202,7 +202,7 @@ Personal Projects
 
 * **Imperium:** conceived, designed and coded a turn-based strategy computer game whose core game play and rules were chosen to emulate a classic old game I loved named Empire, by Mark Baldwin and Walter Bright (yes, the D guy.) I added additional unit and terrain types, modes and effects, and tweaked unit stats to taste. I created all bitmap graphics by hand (for terrain, units, actions/animations) but used free or COTS sound effects. One of my most complete and "done" games.
     tech: C, gcc, lint, gdb, OpenGL, GLUT, Linux
-    [source tree screenshot](./sshots/imperium_source_tree_sshot_2024feb24.png)
+    ![source tree screenshot](./sshots/imperium_source_tree_sshot_2024feb24.png)
 
 * **Organism:** conceived, designed and coded an original strategy desktop GUI computer game about rival colonies on a shared planet in a sci-fi setting. turn-based, top-down 2D perspective. I also designed and drew all the graphical elements for icons and textures.
     tech: C/C++, Windows
@@ -210,7 +210,7 @@ Personal Projects
 * **Valkyrie:** conceived, designed and coded an original strategy desktop GUI computer game, involving turn-based battles between fleets of starships in 2D space. also created all the graphical elements.
     tech: C, Windows
 
-* **Zodlogic Games:** I once built and ran a tiny indie computer game biz which sold access/license to games I made. There was a website with several Flash games, 1 web browser-based game (an early version of my Dead By Zombie) and I tired bringing 1 or 2 downloadable native/desktop games to market too (a separate version of Dead By Zombie, and Shattered Stars.)
+* **Zodlogic Games:** I once built and ran a tiny indie computer game biz which sold access/license to games I made. There was a website with several Flash games, 1 web browser-based game (an early version of my Dead By Zombie) and I brought up to 2 downloadable native/desktop games to market too (a separate version of Dead By Zombie, and Shattered Stars.)
     tech: Nginx, Django, Python, MySQL, PayPal, shell, Flash, ActionScript, JavaScript (JS), HTML, HTTP, DNS, Linux
 
 Testimonials
@@ -229,7 +229,7 @@ Testimonials
 
 * "I worked with Michael Kramlich when I was the director of software engineering at BlockDot. Michael was the lead delivery engineer for Blockdot's Khaki Pants Pete iOS app. Working with Michael was absolutely fantastic! He is an excellent engineer, has a great 'get it done' drive to ship code, and goes above and beyond in making smart decisions that save time and improve the app experience. A perfect example of this is Michael's initiative to take the original Khaki Pants Pete spec and see the opportunity to make the underlying iOS game engine more generic and flexible via a data-driven XML game file format that made adjusting the game play, settings, actions and visual experience very easy. This single innovation allowed us to ship on time with a great experience despite the multitude of late 'change requests' from the customer that so often occur in our industry. I can't wait to work with him again!"
 
-* “Also, in keeping with Mike Kramlich's design goal of keeping the game simple and focused on the combat, you don't design your ships a la Space Empires IV or develop your technology tees as per Master of Orion, Reach for the Stars, and Space Empires IV. You collect money, you build ships, you move, and you have combat. It's pretty simple in execution—more chess than Sid Meier's Civilization. It is more like the table-top marble game Albedo than Othello or Go. Movement is important, but it is restricted enough that grand flanking movements aren't likely. If you can maintain your front lines and make sure you have enough reserves to cover a potential breakthrough, you can keep pushing forward by taking a few systems each turn.” -- by Johnny Wilson (ex editor of Computer Gaming World), in his preview of my game Shattered Stars, back when I ran ZodLogic Games and he was part of the Manfesto Gaems
+* "Also, in keeping with Mike Kramlich's design goal of keeping the game simple and focused on the combat, you don't design your ships a la Space Empires IV or develop your technology tees as per Master of Orion, Reach for the Stars, and Space Empires IV. You collect money, you build ships, you move, and you have combat. It's pretty simple in execution—more chess than Sid Meier's Civilization. It is more like the table-top marble game Albedo than Othello or Go. Movement is important, but it is restricted enough that grand flanking movements aren't likely. If you can maintain your front lines and make sure you have enough reserves to cover a potential breakthrough, you can keep pushing forward by taking a few systems each turn." -- by Johnny Wilson (ex editor of Computer Gaming World), in his preview of my game Shattered Stars, back when I ran ZodLogic Games and he was part of Manifesto Gaems
 
 Culture & Policies
 
