@@ -55,10 +55,9 @@ Overall
 
 Employer Highlights
 
-* **self** -- remote contracting & expert consulting, and (sometimes, also, have made/sold) indie computer games
-* **The US State Department** -- tech lead on natsec-related "counter-disinfo" project
-* **Orbitz/Cheaptickets** -- senior engineer in Ops/Arch and core/cross-cutting tech (JVM, GC/leaks/crashes, logs, caches, sessions, thread pools (eg. fixing critical concurrency bugs), database conn layer, perf issue resolution, pager on-call if outages)
-* **Burger King** -- fry guy, closer, opener
+* **self:** remote contracting & expert consulting, and (sometimes, also, have made/sold) indie computer games
+* **The US State Department:** tech lead on natsec-related "counter-disinfo" project
+* **Orbitz/Cheaptickets:** (on staff 4.5 years total) senior software engineer in Ops/Arch and core/cross-cutting tech (JVM, GC/leaks/crashes, logs, caches, sessions, thread pools (eg. fixing critical concurrency bugs), database conn layer, perf issue resolution, pager on-call if outages)
 
 Side Projects
 
@@ -115,6 +114,7 @@ Contract Work
     tech: Python, Javascript, bash, Linux
 
 * **The US Department of State (GEC)**: software research, product technical due diligence and architectural consulting as the Technical Lead of a team of outside, civilian expert contractors tasked with helping to quickly identify and objectively report on the best available commercial tools and relevant technology for the US government and its allies to counter or prevent online, foreign adversarial propaganda & disinformation (APD). Specifically focused on the kinds of APD operations believed by the US intelligence community to be carried out by traditionally hostile nation states such as China, Iran, and North Korea, but most especially by Russia. We evaluated many tools and technologies over the span of several months. We evaluated each candidate by dividing its qualities into several categories. I was responsible for the 6 most technical categories. The categories were: maintenance, interoperability, scalability, reliability, resistance to misuse, and security. For these categories I did the bulk of the research and had the dominant voice in deciding our final characterization, ratings, ranking, and recommendations. I was also the primary author of the text in their sections, in the final reports our team delivered. To be efficient and fair, our evaluation process used a filter funnel technique with multiple stages of increasing scrutiny, higher standards and greater time and energy investment, as well as delivering increasingly longer and more detailed & objective reports. In the later stages of the products I evaluated I was typically the main author of anywhere from one half to two thirds of the total page count of the report versions we delivered for the end client, the State Department. I also created and delivered an original questionnaire tailored to help us gather common relevant facts on the products we evaluated. It had 48 technical diligence questions spread across the categories that I was responsible for -- I devised all of them. I championed it as a way to both improve team speed and productivity. As well as to ensure thoroughness, and to boost the credibility of the project, both in the eyes of all client stakeholders and in the leadership of the companies we evaluated.
+    [State's GEC](https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/)
 
 * created a Mac app for a startup client to serve as their first working product proof-of-concept and help them gain additional investment. It was a GUI workflow tool which allowed you to load video clips from local disk, then specify subsets of the clip (bound by a user mouse specified rectangular viewport range, as well as time start/stop moments) with a custom text annotation. Its purpose was to assist video production teams tasked with reviewing raw footage or clip drafts, then suggesting edits or otherwise sharing context-tied feedback with other stakeholders.
     tech: Objective-C, Cocoa, QuickTime Pro, Mac video APIs, XCode, Mac
@@ -142,6 +142,7 @@ Personal Projects
 * **Aviron 7:** conceived, designed and coded this 2D side POV GUI game about an alien outbreak at a sci-fi colony, featuring vector-drawn ships (with mutable state and animations), user interaction, and a pauseable "real-time" looped game engine. more of a little experiment than a full game.
     tech: Python, PyGame, Mac
     code: https://github.com/mkramlich/Aviron7
+    ![game play](./sshots/aviron7_sshot1.png)
 
 * **Warconomy:** conceived, designed and coded a simple turn-based strategy game with a text CLI.
     tech: Python, Twisted, client/server, sockets
@@ -154,8 +155,10 @@ Personal Projects
     tech: Python, web.py, OO, HTTP, HTML, Javascript, sqlite3, nginx, bash, Linux, Linode, DNS
 
 * **Shattered Stars (aka Galactic War):** conceived, designed and coded an original turn-based strategy computer war game in Java for Windows and Linux. Play mechanics were based loosely on Axis & Allies. It featured 2D bitmap graphics, animations, sound effects, music, hotseat multi-player, multiple/concurrent threads (background tasks like animations or loads), events, sprites, curated scenarios, semi-random world generation, simulated battles and maps based on Voronoi diagrams. I sent copies and demonstrated it to Greg Costikyan (designer of the Paranoia RPG) and Johnny Wilson (retired Editor-in-Chief of Computer Gaming World magazine.) They accepted it for publication by their indie game distributor startup, Manifesto Games. Johnny wrote and published in his online blog a preview based on his play and analysis of a pre-publication build. Greg and Johnny both gave me game design feedback and encouragement. Their startup never got enough total sales revenue traction (this was before Steam and the App Stores) so they eventually closed it (releasing the web domain.) My Shattered Stars codebase lives still, might republish it some day. I created many in-house Java lib APIs and tools for this game that I reused with other apps. Feel free to contact Greg or Johnny to confirm all of this. I was fortunate to have friends and work colleagues do playtests and give feedback on my prod candidate builds.
-    UPDATE: In the summer of 2021 or 2022 (IIRC) I spent a day refurbishing my old "cobweb-gathered" code and fixed it to work again with the then latest version of Java. Which was 14. It had previously assumed Java 1.4!
+    UPDATE: In the summer of 2020, around July 4th, I spent a day refurbishing my old "cobweb-gathered" code and fixed it to work again with the then latest version of Java. Which was Oracle's 14. It had previously assumed Sun's Java 1.4!
     tech: Java, AWT, Swing, OO, XML
+    ![source tree, peek around](./sshots/shstars_sshot01_2024feb25.png)
+    ![gameplay, on strategy map](./sshots/shstars_sshot04_2020jul3.png)
 
 * **Dead By Zombie:** conceived, designed, coded, documented, released, marketed, promoted, sold, supported and overall orchestrated into existence an original commercial 14 KLOC pure Python traditional ASCII/Terminal-style Rogue-like game, with a zombie apocalypse setting and a comedy style. I gave it a proper OO architecture, a simple creature-based AI, a FSM-structured modal UI, and a tick-driven subscription-based event engine. Also a homegrown license generation/detection/feature-unlocking subsystem, config subsystem, random world generation and a modular architecture designed to allow multiple distinct Rogue-like games to each reuse a common core (named WebHack) easily via inheritance and overrides. I helped myself to ensure this design aspect worked by maintaining a 2nd working POC game override in parallel to DBZ: a crude 80's Castle Wolfenstein variant. DBZ made its public in-person debut at the Genghis Con 2009 game convention in Denver where I rented a vendor booth and personally promoted it there while in costume as a Mad Scientist. I contacted, contracted and paid the comic book artist Richard Pace for the rights to use 2 of his existing zombie illustrations to promote and include in my DBZ releases and marketing. Built and publicly released downloadable standalone desktop binary distros for Windows, Mac and Linux. (Later dropped Windows support.) It never made a ton of money, and so I eventually withdrew it from sale and instead created a GitHub repo as part of my portfolio of public code, figuring that might be better for my career. I did learn a lot about marketing and the power of the human element, and customer service, in making software more successful. Takeaway: I started with a blank slate, imagined something, made it, shipped it and sold it.
     tech: Python, curses, OOP, game character AI (no NNs or LLMs, haha), PayPal
@@ -199,10 +202,13 @@ Personal Projects
 
 * **War Command:** conceived, designed and coded an original real-time strategy computer game whose core game play and unit behavior mechanics were designed to emulate a classic old game I loved named Command HQ by Dan Bunten of Microprose. Featured a "real" Earth map with each player leading a modern nation, and pulsed/variable-speed unit (sprite) movement based on unit type, pathing, hidden placement/movement (fog of war), sight ranges, attack/ZOC ranges, city control/conquest, income, unit builds/buys, air/sea/ground units, air strikes, oil consumption/shortage effects. very simple, retro UI.
     tech: C, gcc, lint, gdb & valgrind (prob), OpenGL, GLUT, Linux, Windows, CygWin, algebra, trig
+    ![source tree, peek around](./sshots/wc_sshot_source_tree_2024feb25.png)
+    ![game play, map](./sshots/wc_sshot_map.png)
+    ![game play, status tables](./sshots/wc_sshot_status_tables.png)
 
 * **Imperium:** conceived, designed and coded a turn-based strategy computer game whose core game play and rules were chosen to emulate a classic old game I loved named Empire, by Mark Baldwin and Walter Bright (yes, the D guy.) I added additional unit and terrain types, modes and effects, and tweaked unit stats to taste. I created all bitmap graphics by hand (for terrain, units, actions/animations) but used free or COTS sound effects. One of my most complete and "done" games.
     tech: C, gcc, lint, gdb, OpenGL, GLUT, Linux
-    ![source tree screenshot](./sshots/imperium_source_tree_sshot_2024feb24.png)
+    ![source tree, peek around](./sshots/imperium_source_tree_sshot_2024feb24.png)
 
 * **Organism:** conceived, designed and coded an original strategy desktop GUI computer game about rival colonies on a shared planet in a sci-fi setting. turn-based, top-down 2D perspective. I also designed and drew all the graphical elements for icons and textures.
     tech: C/C++, Windows
@@ -241,15 +247,15 @@ Culture & Policies
 * ... and I strive to do the same thing, in return
 * will not talk/deal with *third-party* recruiters or *outside* headhunters
 * no *commutes* (though *travel* for work/biz reasons, when needed, is fine)
-* no *video* calls, early (ok once we're teammates or friends)
+* my camera will be *OFF* in video calls. *screensharing* is ok
 * no *jerks*
 
 Misc
 
-* US citizen, Colorado resident, native US English speaker
-* also: semi-pro/hobby fiction *writer* and *game designer*
-* some hobbies: gaming, wargaming, LEGO, watching football, reading sci-fi & history
+* US citizen; Colorado resident; native US English speaker
+* hobbies: gaming, wargaming, LEGO, watching football, reading sci-fi & history, writing comedy; long walks/hikes for cardio exercise & boosting endurance health
 * weird/cool/geeky claims to fame: met Prince (he is MUCH shorter than you expect); ran into the Frodo actor (MUCH taller than you expect); graduate level study of Nazi Germany; won a Diplomacy tournament (as Russia), then many years later worked for State Dept to defend US from Russia (you know, as one does!); wrote a "comedy" that made readers cry (doh!); found flaw in Terence Tao math blog post & told him (NOT in his math, just in his claimed logic; he then fixed it and thanked me!); longtime senior editor of Computer Gaming World magazine (Johnny Wilson) wrote a review of one of my computer games; Manning once offered me contract to author a Python book (I declined)
+
 
 Online Presence
 
@@ -259,5 +265,5 @@ Online Presence
 * **Mastodon:** https://toot.io/@synlogic
 * **HN:**       https://news.ycombinator.com/user?id=syngrog66
 
-UPDATED: 2024 February 24
+UPDATED: 2024 February 25
 
