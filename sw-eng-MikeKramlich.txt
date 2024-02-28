@@ -59,9 +59,9 @@ Employer Highlights
 * **The US State Department:** tech lead on natsec-related "counter-disinfo" project
 * **Orbitz/Cheaptickets:** (on staff 4.5 years total) senior software engineer in Ops/Arch and core/cross-cutting tech (JVM, GC/leaks/crashes, logs, caches, sessions, thread pools (eg. fixing critical concurrency bugs), database conn layer, perf issue resolution, pager on-call if outages)
 
-Side Projects
+Side Projects (active or recent)
 
-* **LatLearn:** latency perf instrumentation & reporting lib for Golang (as FOSS)
+* **LatLearn:** latency perf instrumentation & reporting lib for Golang (as FOSS). Nanosecond scale measurements. Stat calcs for each named span, across set of all samples: min, max, last, mean, weight, cumul. Report file gen (in plain text so VCS friendly, enough structure for parsing.) Option to run common benchmarks of interest. Host & runtime config probe, added to reports. Overhead self-sampling, and option to auto-compensate in reported values. Variant span families: metric groups that vary only by task param values, environmental conditions or alternate flow paths or function exits. Concurrent & thread-safe by design. Plays well with Contexts, defer and panic. This lib provides features Golang does not out-of-the-box, and neither do generic/lang-agnostic system tools or profilers. Transparent and makes no "calls home" so maximally trustable when integrating into app code. Also: zero price.
     https://github.com/mkramlich/latlearn
 
 * writing a **book** (about *software performance and scalability*):
@@ -93,12 +93,13 @@ Talks & Presentations
 * Computer Hardware & Software Performance (Talk 1, v4)
     https://youtu.be/nR7oPrmyCP4
 
-Contract Work
+Contract Work (past, completed; order is arbitrary)
 
 * memory alloc latency & SEGV resilience R&D, in the ad industry. They had a very old but polished C codebase and were in a highly competitive space where any downtime, wasted milliseconds or blocked threads meant significantly lower revenue. Thus they were "chasing 9's" and my challenge was to try giving their legacy engine a performance and uptime upgrade, by any means possible. I believe I succeeded. I delivered new C code, benchmarks, diagrams and a report.
     tech: C, mmap, signals, fibers, POSIX, Linux, Solaris
+    ![](./samples/segv-resilience-arch-redacted.png)
 
-* created a novel real estate "AVM" price prediction engine for a client using multi-dimensional OLS regression on rich labeled tabular data sets from multiple sources including regional broker listing agencies.
+* created a novel real estate "AVM" market-clearing price prediction engine for a client using multi-dimensional OLS regression on rich labeled tabular data sets from multiple sources including regional broker listing agencies.
     tech: Python, numpy, pandas, scipy, statsmodels, sqlalchemy, ElementTree, gnuplot, pandoc, SQL, sqlite3, bash, machine learning (ML), the then-dominant real estate listing service protocols/formats (can't remember names anymore)
 
 * created a Bayesian inference engine for a client in the online insurance industry.
@@ -115,6 +116,7 @@ Contract Work
 
 * **The US Department of State (GEC)**: software research, product technical due diligence and architectural consulting as the Technical Lead of a team of outside, civilian expert contractors tasked with helping to quickly identify and objectively report on the best available commercial tools and relevant technology for the US government and its allies to counter or prevent online, foreign adversarial propaganda & disinformation (APD). Specifically focused on the kinds of APD operations believed by the US intelligence community to be carried out by traditionally hostile nation states such as China, Iran, and North Korea, but most especially by Russia. We evaluated many tools and technologies over the span of several months. We evaluated each candidate by dividing its qualities into several categories. I was responsible for the 6 most technical categories. The categories were: maintenance, interoperability, scalability, reliability, resistance to misuse, and security. For these categories I did the bulk of the research and had the dominant voice in deciding our final characterization, ratings, ranking, and recommendations. I was also the primary author of the text in their sections, in the final reports our team delivered. To be efficient and fair, our evaluation process used a filter funnel technique with multiple stages of increasing scrutiny, higher standards and greater time and energy investment, as well as delivering increasingly longer and more detailed & objective reports. In the later stages of the products I evaluated I was typically the main author of anywhere from one half to two thirds of the total page count of the report versions we delivered for the end client, the State Department. I also created and delivered an original questionnaire tailored to help us gather common relevant facts on the products we evaluated. It had 48 technical diligence questions spread across the categories that I was responsible for -- I devised all of them. I championed it as a way to both improve team speed and productivity. As well as to ensure thoroughness, and to boost the credibility of the project, both in the eyes of all client stakeholders and in the leadership of the companies we evaluated.
     [State's GEC](https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/)
+    [C-SPAN video of my team's work cited in US Senate testimony by then-head of GEC](https://www.c-span.org/video/?470038-1/propaganda-disinformation)
 
 * created a Mac app for a startup client to serve as their first working product proof-of-concept and help them gain additional investment. It was a GUI workflow tool which allowed you to load video clips from local disk, then specify subsets of the clip (bound by a user mouse specified rectangular viewport range, as well as time start/stop moments) with a custom text annotation. Its purpose was to assist video production teams tasked with reviewing raw footage or clip drafts, then suggesting edits or otherwise sharing context-tied feedback with other stakeholders.
     tech: Objective-C, Cocoa, QuickTime Pro, Mac video APIs, XCode, Mac
@@ -137,7 +139,7 @@ Contract Work
 * Java GUI application and C++ service backend development for GUI call center application for a major telecomm billing provider. Distributed RPC middleware/bridge development and integration -- the layer that sat between the GUI app and the legacy mainframe system provided, via a bridge API. Looking back, I appeared at the time to be one of the few people who managed to get application client code running successfully (and reliably) on top of their API. (Its docs at the time were soooo bad it almost felt "intended to fail" haha.) Therefore after I finished my contract successfully and left I was soon thereafter contacted by another company asking me to work on their systems which also needed to integrate on top of that same vendor's bridge API.
     tech: C++, Java, CORBA, DCOM, 3270, xBOI, Visual C++ 5, UML, Toad, Java AWT/Swing, Solaris
 
-Personal Projects
+Personal Projects (past, inactive, mothballed)
 
 * **Aviron 7:** conceived, designed and coded this 2D side POV GUI game about an alien outbreak at a sci-fi colony, featuring vector-drawn ships (with mutable state and animations), user interaction, and a pauseable "real-time" looped game engine. more of a little experiment than a full game.
     tech: Python, PyGame, Mac
@@ -254,7 +256,7 @@ Misc
 
 * US citizen; Colorado resident; native US English speaker
 * hobbies: gaming, wargaming, LEGO, watching football, reading sci-fi & history, writing comedy; long walks/hikes for cardio exercise & boosting endurance health
-* weird/cool/geeky claims to fame: met Prince (he is MUCH shorter than you expect); ran into the Frodo actor (MUCH taller than you expect); graduate level study of Nazi Germany; won a Diplomacy tournament (as Russia), then many years later worked for State Dept to defend US from Russia (you know, as one does!); wrote a "comedy" that made readers cry (doh!); found flaw in Terence Tao math blog post & told him (NOT in his math, just in his claimed logic; he then fixed it and thanked me!); longtime senior editor of Computer Gaming World magazine (Johnny Wilson) wrote a review of one of my computer games; Manning once offered me contract to author a Python book (I declined)
+* weird/cool/geeky claims to fame: met Prince (he is MUCH shorter than you expect); ran into the Frodo actor (MUCH taller than you expect); graduate level study of Nazi Germany; won a Diplomacy tournament (as Russia), then many years later worked for State Dept to defend US from Russia (you know, as one does!); wrote a "comedy" that made readers cry (doh!); found flaw in Terence Tao math blog post & told him (NOT in his math, just in his claimed logic; he then fixed it and thanked me!); longtime senior editor of Computer Gaming World magazine (Johnny Wilson) wrote a review of one of my computer games; Manning once offered me contract to author a Python book (I declined); some national security related work I've done (as tech lead of a US State Department project team) has been described in oral testimony to the US Senate (you know: as one does! ha)
 
 
 Online Presence
@@ -265,5 +267,5 @@ Online Presence
 * **Mastodon:** https://toot.io/@synlogic
 * **HN:**       https://news.ycombinator.com/user?id=syngrog66
 
-UPDATED: 2024 February 25
+UPDATED: 2024 February 27
 
