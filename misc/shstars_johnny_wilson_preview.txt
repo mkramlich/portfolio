@@ -1,0 +1,71 @@
+NOTE BY MIKE:
+
+While Shattered Stars was under original development my working name for the project was Galactic War. When I gave a candidate build of it to Johnny Wilson to review, for Manifesto Games, it was still called. Later as I prepared it to go live I decided the market product name for it would be Shattered Stars.
+
+I saved this locally from the orig live/public page content available (at the time) at:
+    http://www.manifestogames.com/blogs/johnny/
+-------------------------------------------------
+
+
+Saturday, April 22, 2006
+
+ The Galaxy is Falling
+
+"Civil War" in Space
+A Preview of Galactic War
+
+
+The latest space conquest game (a tradition that goes back to Tom Cleaver's Galaxy, Avalon Hill's Andromeda Conquest, Roger Keating and Ian Trout's classic Reach for the Stars series, the Macintosh superstar, Spaceward Ho! and the Master of Orion series, among many, many more) only requires three of the four Xs that we usually associate with interstellar combat games. Instead of explore, expand, exploit and exterminate, Galactic War gives you perfect intelligence across the galaxy. Albeit you can toggle some of this information off, you potentially always know what star systems are controlled by one of the factions and you always know how many capital ships (battleships and cruisers) are stationed in each of those systems. If you watch the top of the screen when the other factions are moving, you even have perfect knowledge of how much income the other factions are getting. And income, in Galactic War as in any other space conquest game, determines how effective your war machine is going to build and reinforce itself. So, exploration isn't really part of Galactic War.
+
+You simply start with a color-coded representation of the galaxy, complete with initial fleet forces and starting income for each sector—whether controlled by you or by an enemy confederation. Unlike Master of Orion, there are no racial characteristics and special powers for a given civilization. These confederacies are all part of the same empire. Your mission, should you choose to accept it, is unification of the galaxy by force.
+
+
+
+BLU, BLU L'GUERRE NE C'EST BLU The initial starting positions in Galactic War are crucial. Here, the dark blue Morassen States (unfortunately, the light blue lettering smudged when we converted the screenshot to jpg) and the yellow Zoltan Conspiracy (though the names and configurations of the powers change with every game), as well as the Borosoi Republic (green) and Piram Conspiracy (purple) start off in bad shape (capitol planets are on 200 CR compared to 400 and 800 for other powers). The light circles represent reduced capitol incomes while the turquoise circles represent full value capitols.
+
+Disclaimer: Journalistic designeritis ahead! Even though this galaxy represents the balkanized remnants of a once-unified galactic confederation, it would be safe to assume that certain tendencies or idiosyncrasies were adopted by the combatants. For example, in the American Civil War, the confederates were known for their bold cavalry strokes. In Harry Harrison's alternate history of the Civil War (Upton Sinclair as President of the U.S.—gotta' love it!), the South was known for their barrels, primitive versions of tanks. In the English Civil War, you had very different cultures between the Roundheads and the Cavaliers—reflected both in dress and force mixtures. So, it would not be too surprising if players had the option of picking a faction that relied on swifter, smaller ships (not reflected in increased strategic movement for the current pre-release edition) to be able to penetrate behind the lines or one that emphasized capital ships and blasted planets to smithereens.
+
+Galactic Entropy (Expansion and Exploitation)
+
+Galactic War is even a bit light on the exploitation aspect. To be sure, in the tradition of the early space conquest games (from the days of play-by-mail through the titles mentioned earlier), each planetary system provides a certain income per turn and you use that income to build ships (from light scout ships to full-scale battleships). The twist is that the income varies based on whether there has been combat in the star system or not. This is a most interesting twist. If you have to defend a star system or conquer one during a given turn, its value is reduced.
+
+Further, even if a rival power surrenders to your coalition of planets and sectors, you do not get the immediate value of that surrender. Garrisoning conquered nations, planets and sectors is neither simple nor popular. So, Galactic War does not allow you to build in those newly conquered and newly surrendered systems on the first turn after they surrender.
+
+This makes perfect sense. It's always better for the scorched earth to take place in someone else's territory and war is really only good for the economy when you're safely behind the lines. So, star systems tucked safely behind the lines in Galactic War remain at their maximum value. As a result, Galactic War plays as a territorial game much like a classic war game. The map isn't a moebius strip where you can suddenly be attacked from the opposite side of the galaxy. Indeed, in the current playtest version, you can only travel from one system to a contiguous system at a time. Scout ships cannot skip over the front lines and make guerrilla assaults in the homeland. There are no long-range bombers to perform those strategic missions of reducing an enemy's industrial base.
+
+Also, in keeping with Mike Kramlich's design goal of keeping the game simple and focused on the combat, you don't design your ships a la Space Empires IV or develop your technology tees as per Master of Orion, Reach for the Stars, and Space Empires IV. You collect money, you build ships, you move, and you have combat. It's pretty simple in execution—more chess than Sid Meier's Civilization. It is more like the table-top marble game Albedo than Othello or Go. Movement is important, but it is restricted enough that grand flanking movements aren't likely. If you can maintain your front lines and make sure you have enough reserves to cover a potential breakthrough, you can keep pushing forward by taking a few systems each turn.
+
+Warped Drive (Movement)
+
+Movement is handled quite easily on a per fleet basis. When you right click on one of your star systems, the information on the primary fleet appears along with green lines and circles showing possible destinations that the fleet could reach during that turn. The restricted movement (one system or sector per turn regardless of the composition of your fleets) has a positive benefit in that it allows one to move carefully, but surely, across the map, but it also has the downside of limiting the opportunity for reversal later in the game. Once you have overwhelming revenue and relatively secure lines, it is no longer a question of if you will win, but when you will win.
+
+
+
+TO THE FRONT It seems unusual for space conquest games to talk about front lines, but Galactic War has them. Here, the fleet in Barnard decides whether to go to Valtrax to assist another fleet in holding against the ten ship fleet in Falack; to Lyrae in an attempt to hold against the fleets that could come from Morassen and Sindarius; to Ulrikan to block the ten ship fleet coming from Valara and being in striking distance of the capitol of Mindine; or to attack the fleet in Organnia that is already threatening Mindine.
+
+Even with the unexpected front lines feel and the lack of what wargamers call exploitation movement, Galactic War has a lot of fluidity in the early turns. There are always so few ships and so many systems to cover that you constantly find yourself debating whether to build expendable smaller ships to take territories as buffer zones or to build enough capital ships to guarantee that you can stand against rival fleets.
+
+Mix Master (Combat Thoughts)
+
+Combat resolution currently lacks the particle effect explosions and disappearing ships of many space combat games. The current presentation is text-based and to the point. The good news is that this ensures quick combat resolution. The better news is that you can choose to resolve combat at any time during your turn. If one combination of fleets fails to take an objective, you have time to send in another to finish the job. This may not be realistic, but it sure is handy for the player. Saving the best news for later, the only bad news is the lack of reward sequences in the screen displayed below. Of course, this screen might be a placeholder for something more elaborate at a future date.
+
+
+
+FEE, FAYE, FO FLEETS When fleets come together, their components are presented in text lists. The red rectangles present losses for the current round, as well as cumulative losses.
+
+The best news is that deploying a combined fleet seems to have a better pay-off than purely building capital ships (cruisers and battleships). The main reason for this is simple, if unattractive. A mix of smaller ships means that you have cannon-fodder. The tactical combat resolution assumes that the smaller faster ships will get into range quicker and they take the first losses. They can also get the first lucky (opportunistic?) hits on capital ships that don't have a screen of smaller ships. The effect is that the smaller ships provide a screen for the capital ships, allowing them to fire more rounds and have less risk of being taken out by an opportunistic shot from the enemy. Since the smaller ships can be replaced less expensively than the larger ships, mixing up one's forces is a very good thing.
+
+If I Were Emperor (Problems or Opportunities?)
+
+It is always difficult to talk about problems when one is looking at a game under development. In many ways, it isn't fair, but I can do this with confidence because I know that Mike is continuing to improve Galactic War. The prototype version I was playing didn't seem to have a feature for saving the game. Some of the information I had referred to the possibility of saving the game, but I couldn't find the right key combination to either save the game or shut the game off without a Vulcan nerve pinch (CTRL-ALT-DEL). I'm sure that I'm either overlooking something here (it wasn't on the OPTIONS screen where I would have expected it) or that this will be implemented later.
+
+The good news is that I was able to play through the entire game in less than an afternoon WHILE answering emails and working on another article while the artificial opponents were moving. It would have been nice to be able to save the session, though. Also, when I'm looking at a game from a preview/review perspective, I like to have multiple sessions going at a time so that I can play from different perspectives.
+
+
+ALL YOUR BASE When all your base are belong to us as the old video game used to say, the map turns a delightful shade of your chosen color. Here, the Mindine Confederacy triumphed, in spite of some iffy moments early in the game.
+
+The bad news is that I can currently find no way to play this game in a multiplayer mode. I remember many days in the old Computer Gaming World offices when we had hot seat games of Empire on the Atari ST, Imperium Galactum or Galaxy on the Apple II, or in later years, Spaceward Ho! on the hot-rod 386s we had with Windows 3.1. Like those space combat games of old (though Empire and Empire Deluxe were planet-based, science-fiction warfare), this one would make an ideal hot seat game where several players could play at the same computer. Again, this might be coming, but I'm only talking about what I've experienced so far.
+
+I know Mike reads this blog, so I'm hoping he'll respond to this first preview with some idea of where the game is going, when it might launch, and how much it might cost. How much would you pay for a space conquest game that was simple enough to play in one sitting?
+
+posted by Johnny Wilson at 12:37 PM 0 comments links to this post
