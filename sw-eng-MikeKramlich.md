@@ -259,10 +259,14 @@ Culture & Policies
 * prefer people who let me work for/with them in a way that *maximizes* what I can deliver
 * prefer people who *demonstrate* how much they value me (not necessarily in $!)
 * ... and I strive to do the same thing, in return
+* NO UNPAID WORK
+* want free samples of my code? look in my public repos. Golang, C, Java, Python
+* if you think I'm a liar or fraud or otherwise NOT a real programmer or engineer then PLEASE do me favor and DO NOT CONTACT ME. will save me hassle, and time I can reinvest on folks who do respect and value me more. why? life short, time precious
+* READ my resume (this document), please, BEFORE our 1st call. before your 1st email to me, or recruitment decision; I will do something complimentary: I will read a job desc, your company site, perhaps a subset of your tech's docs, and I often try to find an online bio of the person with whom I plan to speak
 * will not talk/deal with *third-party* recruiters or *outside* headhunters
-* no *commutes* (though *travel* for work/biz reasons, when needed, is fine)
 * my camera will be *OFF* in video calls. *screensharing* is ok
-* no *jerks*
+* no *commutes* (though *travel* for work/biz reasons, when needed, is fine)
+* NO JERKS. related: NO PARANOID bosses/employers, or, gaslighters
 
 Misc
 
