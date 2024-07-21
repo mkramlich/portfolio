@@ -270,17 +270,10 @@ Culture & Policies
 
 Misc
 
-* US citizen; Colorado resident; native US English speaker
-* hobbies: gaming, wargaming, LEGO, watching football, reading sci-fi & history, writing comedy; long walks/hikes for cardio exercise & boosting endurance health
-* ran into Prince (he is MUCH shorter than you expect)
-* ran into the Frodo actor (MUCH taller than you expect)
-* graduate level study of Nazi Germany
-* won a Diplomacy tournament (as Russia), then many years later worked for State Dept to defend US from Russia (you know, as one does!)
-* wrote a "comedy" that made readers cry (doh!)
-* found flaw in Terence Tao math blog post & told him (NOT in his math, just in his claimed logic; he then fixed it and thanked me!)
-* longtime senior editor of Computer Gaming World magazine (Johnny Wilson) wrote a review of one of my computer games
-* Manning (the computer book publisher) once offered me contract to author a Python book (I declined)
-* some national security related work I've done (as tech lead of a US State Department project team) has been described in oral testimony to the US Senate (you know: as one does! ha)
+* US citizen
+* Colorado resident
+* native US English speaker
+* hobbies: gaming; wargaming; LEGO; watching football; reading sci-fi & history; writing comedy; long walks/hikes for cardio exercise & boosting endurance health
 
 
 Online Presence
@@ -291,5 +284,5 @@ Online Presence
 * **Mastodon:** https://toot.io/@synlogic
 * **HN:**       https://news.ycombinator.com/user?id=syngrog66
 
-UPDATED: 2024 July 20
+UPDATED: 2024 July 21
 
