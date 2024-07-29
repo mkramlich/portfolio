@@ -14,5 +14,5 @@ wc $BASE.md
 
 pandoc -s -f markdown -t epub3 -o $BASE.epub --metadata title="$TITLE" --metadata author="$AUTHOR" --metadata date="$VERSION" --epub-cover-image=$COVER $BASE.md
 
-pandoc -s -f markdown -t docx -o $BASE.docx --metadata title="$TITLE" --metadata author="$AUTHOR" --metadata date="$VERSION" --epub-cover-image=$COVER --toc $BASE.md
+pandoc -s -f markdown -t docx -o $BASE.docx --metadata title="$TITLE" --metadata author="$AUTHOR" --metadata date="$VERSION" --epub-cover-image=$COVER $BASE.md
 
