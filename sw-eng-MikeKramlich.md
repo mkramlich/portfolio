@@ -36,7 +36,7 @@ misc: SQL (sqlite, MySQL & Postgres); Docker; Kubernetes (some, once); AWS (main
 * brainstorming
 
 
-# Role Fit \
+# Role Fit
 *roles I can play and enjoy; not exhaustive, just examples*
 
 * R&D
@@ -72,7 +72,7 @@ tech lead on natsec-related "counter-disinfo" project
 (on staff 4.5 years total) senior software engineer in Ops/Arch and core/cross-cutting tech (JVM, GC/leaks/crashes, logs, caches, sessions, thread pools (eg. fixing critical concurrency bugs), database conn layer, perf issue resolution, pager on-call if outages)
 
 
-# Side Projects \
+# Side Projects
 *(active or recent)*
 
 * **LatLearn** \
