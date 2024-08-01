@@ -57,7 +57,7 @@ misc: SQL (sqlite, MySQL & Postgres); Docker; Kubernetes (some, once); AWS (main
 * solved and shipped, over and over again
 * good writer and oral communicator
 * code samples in public repos on GitHub: \
-    [https://github.com/mkramlich]()
+    [https://github.com/mkramlich](https://github.com/mkramlich)
 
 
 # Employer Highlights
@@ -77,7 +77,7 @@ tech lead on natsec-related "counter-disinfo" project
 
 * **LatLearn** \
 latency perf instrumentation & reporting lib for Golang (as FOSS). Nanosecond scale measurements. Stat calcs for each named span, across set of all samples: min, max, last, mean, weight, cumul. Report file gen (in plain text so VCS friendly, enough structure for parsing.) Option to run common benchmarks of interest. Host & runtime config probe, added to reports. Overhead self-sampling, and option to auto-compensate in reported values. Variant span families: metric groups that vary only by task param values, environmental conditions or alternate flow paths or function exits. Concurrent & thread-safe by design. Plays well with Contexts, defer and panic. This lib provides features Golang does not out-of-the-box, and neither do generic/lang-agnostic system tools or profilers. Transparent and makes no "calls home" so maximally trustable when integrating into app code. Also: zero price. \
-    [https://github.com/mkramlich/latlearn]()
+    [https://github.com/mkramlich/latlearn](https://github.com/mkramlich/latlearn)
 
 * **Tight Lightning** \
 writing a book about all things related to compute system performance, scalability, efficiency and cost (in effect: HPC). been working on it in my free time, slowly, on and off, for a few years. hope to finish 1st ed and publish sometime in 2024
@@ -85,31 +85,31 @@ writing a book about all things related to compute system performance, scalabili
 * **Slartboz** \
 making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a futuristic, sci-fi, post-apoc setting. style/theme for fans of Wasteland/Fallout, Idiocracy, HHGG (Douglas Adams), Stranger Things, X-COM and Dwarf Fortress. The engine is homegrown. And btw: I've been making game engines (both as an unpaid hobby in my free time, and, sometimes for clients or for the indie game market) for decades. My first public Rogue-like game (Dead By Zombie, in 2007) was commercial, turn-based and written in Python. \
     tech: Golang (Go), ncurses (goncurses), VLC (via Go lib), LatLearn \
-    promo: [https://github.com/mkramlich/slartboz-pub]()
+    promo: [https://github.com/mkramlich/slartboz-pub](https://github.com/mkramlich/slartboz-pub)
 
 
 # Writing Online
 
 * *Fixing Java Thread & Database Connection Leaks For Fun & Profit* \
-    [https://synystron.substack.com/p/fixing-java-thread-and-database-connection]()
+    [https://synystron.substack.com/p/fixing-java-thread-and-database-connection](https://synystron.substack.com/p/fixing-java-thread-and-database-connection)
 
 * *Software Performance & Scalability: A Cheatsheet* \
-    [https://drive.google.com/file/d/1DsUG90gEkBtEsHJ7qJWR-VWLxHSTspcA/view]()
+    [https://drive.google.com/file/d/1DsUG90gEkBtEsHJ7qJWR-VWLxHSTspcA/view](https://drive.google.com/file/d/1DsUG90gEkBtEsHJ7qJWR-VWLxHSTspcA/view)
 
 * *CLIFMO: My Software Engineering Philosophy, Preferences and Practices* \
-    [https://drive.google.com/file/d/1_zl1euz6sIhJ2VFonkaDS9grHNATBJfo/view?usp=sharing]()
+    [https://drive.google.com/file/d/1_zl1euz6sIhJ2VFonkaDS9grHNATBJfo/view?usp=sharing](https://drive.google.com/file/d/1_zl1euz6sIhJ2VFonkaDS9grHNATBJfo/view?usp=sharing)
 
 * *Video Calls Good and Bad* \
-    [https://synystron.substack.com/p/video-calls-good-and-bad]()
+    [https://synystron.substack.com/p/video-calls-good-and-bad](https://synystron.substack.com/p/video-calls-good-and-bad)
 
 * *Time Wasters: What & Why To Avoid* \
-    [https://synystron.substack.com/p/time-wasters-what-and-why-to-avoid]()
+    [https://synystron.substack.com/p/time-wasters-what-and-why-to-avoid](https://synystron.substack.com/p/time-wasters-what-and-why-to-avoid)
 
 
 # Talks & Presentations
 
 * Computer Hardware & Software Performance (Talk 1, v4) \
-    [https://youtu.be/nR7oPrmyCP4]()
+    [https://youtu.be/nR7oPrmyCP4](https://youtu.be/nR7oPrmyCP4)
 
 
 # Contract Work \
@@ -173,7 +173,7 @@ software research, product technical due diligence and architectural consulting 
 * **Aviron 7** \
 conceived, designed and coded this 2D side POV GUI game about an alien outbreak at a sci-fi colony, featuring vector-drawn ships (with mutable state and animations), user interaction, and a pauseable "real-time" looped game engine. more of a little experiment than a full game. \
     tech: Python, PyGame, Mac \
-    code: [https://github.com/mkramlich/Aviron7]() \
+    code: [https://github.com/mkramlich/Aviron7](https://github.com/mkramlich/Aviron7) \
     ![game play](./sshots/aviron7_sshot1.png)
 
 * **Warconomy** \
@@ -193,7 +193,7 @@ conceived, designed, coded an original system for web-based, text-oriented educa
     UPDATE: In the summer of 2020, around July 4th, I spent a day refurbishing my old "cobweb-gathered" code and fixed it to work again with the then latest version of Java. Which was Oracle's 14. It had previously assumed Sun's Java 1.4! \
     tech: Java, AWT, Swing, OO, XML \
     [Manifesto Games](https://en.m.wikipedia.org/wiki/Manifesto_Games) \
-    [Johnny's review (preserved)](./misc/shstars_johnny_wilson_preview.txt) \
+    [Johnny's review](./misc/shstars_johnny_wilson_preview.txt) \
     ![source tree, peek around](./sshots/shstars_sshot01_2024feb25.png) \
     ![gameplay, on strategy map](./sshots/shstars_sshot04_2020jul3.png)
 
@@ -202,13 +202,13 @@ conceived, designed, coded, documented, released, marketed, promoted, sold, supp
     tech: Python, curses, OOP, game character AI (no NNs or LLMs, haha), PayPal \
     promo artist: [Richard Pace](https://richardpace.artstation.com) \
     ![screenshot slideshow](./sshots/dbz-anim-sshot.gif) \
-    h[GenghisCon 2008 booth photo](./sshots/dbz-gc2009-booth4.jpeg) \
-    code: [https://github.com/mkramlich/Dead_By_Zombie\()
+    [GenghisCon 2008 booth photo](./sshots/dbz-gc2009-booth4.jpeg) \
+    code: [https://github.com/mkramlich/Dead_By_Zombie](https://github.com/mkramlich/Dead_By_Zombie)
 
 * **Apocalypse Dawn** \
 conceived, designed and coded an original computer adventure/strategy game set in a post-apocalyptic USA. Loosely inspired by an 80's 8-bit era game named Road War 2000, crossed with elements of the original Wasteland. \
     tech: C, curses, gcc, Linux, Mac and Windows (via CygWin) \
-    code: https://github.com/mkramlich/miscpub/tree/master/ApocalypseDawn \
+    code: [https://github.com/mkramlich/miscpub/tree/master/ApocalypseDawn](https://github.com/mkramlich/miscpub/tree/master/ApocalypseDawn) \
     ![](./sshots/apocdawn_sshot01.png)
 
 * **Grio** \
@@ -222,7 +222,7 @@ conceived, designed and coded an original turn-based strategy/role-playing game 
 * **Empyreal** \
 designed and coded a small game with a subset of Empire's features. \
     tech: Python, curses \
-    code: [https://github.com/mkramlich/empyreal]()
+    code: [https://github.com/mkramlich/empyreal](https://github.com/mkramlich/empyreal)
 
 * **Tactihack2** \
 unfinished spike which recreates a subset of my previous game Tacti-Hack's features, but this time with a GUI and client/server arch (with multiple client types included to prove it, including CLI). \
@@ -299,7 +299,7 @@ I once built and ran a tiny indie computer game biz which sold access/license to
 
 # Culture & Policies
 
-* Unixen (eg. Linux, Mac) & UNIX philosophy; terminal-based workflows; text (plain prose or structured/parse-friendly syntax/DSL); CLIs/APIs/REPLs/TUIs; white-on-black; KISS; MVP; iterating; AWC (always working code); AWS (always be shipping); RDD (README-driven dev); time boxing; evidence-driven; truth bias; CLIFMO (my term for a bundle of practices which work well together, in observed practice, though certainly not unique to me); bias to action; avoid "bike shedding"; "make hay while the sun shines"
+* Unixen (eg. Linux, Mac) & UNIX philosophy; terminal-based workflows; vi/vim; text (plain prose or structured/parse-friendly syntax/DSL); CLIs/APIs/REPLs/TUIs; white-on-black (text color scheme, when working); KISS; MVP; iterating; AWC (always working code); ABS (always be shipping); RDD (README-driven dev); time boxing; evidence-driven; truth bias; CLIFMO (my term for a bundle of practices which work well together, in observed practice, though certainly not unique to me); bias to action; avoid "bike shedding"; "make hay while the sun shines"
 * try to stay in a state of bliss; have fun; laugh; try to make others laugh
 * try to always be learning, improving & helping teach or inspire others
 * prefer people who use my time *efficiently*
@@ -329,10 +329,10 @@ I once built and ran a tiny indie computer game biz which sold access/license to
 # Online Presence
 
 * **email:**    [groglogic@gmail.com](mailto:groglogic+ghport@gmail.com)
-* **GitHub:**   [https://github.com/mkramlich]()
-* **Substack:** [https://synystron.substack.com]()
-* **Mastodon:** [https://toot.io/@synlogic](https://toot.io/synlogic)
-* **HN:**       [https://news.ycombinator.com/user?id=syngrog66]()
+* **GitHub:**   [https://github.com/mkramlich](https://github.com/mkramlich)
+* **Substack:** [https://synystron.substack.com](https://synystron.substack.com)
+* **Mastodon:** [https://toot.io/synlogic](https://toot.io/synlogic)
+* **HN:**       [https://news.ycombinator.com/user?id=syngrog66](https://news.ycombinator.com/user?id=syngrog66)
 
-UPDATED: 2024 July 29
+UPDATED: 2024 August 1
 

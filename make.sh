@@ -4,7 +4,7 @@ set -e
 TITLE="Resume/CV of Mike Kramlich"
 COVER=cover.png
 AUTHOR="Mike Kramlich"
-VERSION="2024 July 29"
+VERSION="2024 August 1"
 BASE=sw-eng-MikeKramlich
 
 cp $BASE.md $BASE.txt
