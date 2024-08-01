@@ -6,10 +6,13 @@ A "one-stop shop" for that kind of thing.
 
 What's Here?
 
-* a concise, one-sheet **overview** of my professional value, as a software engineer:
+* a one-sheet **overview** (of my skills, experience and professional value as a software engineer). in any of 4 file formats:
 
-[.md]( ./sw-eng-MikeKramlich.md)
-and
-[.txt](./sw-eng-MikeKramlich.txt)
+[TEXT](./sw-eng-MikeKramlich.txt) \
+[Markdown](./sw-eng-MikeKramlich.md) \
+[MS Word](./sw-eng-MikeKramlich.docx) \
+[EPUB ebook](./sw-eng-MikeKramlich.epub)
+
+plus misc artifacts all either linked out from or otherwise integrated into the CV
 
 Mike
