@@ -112,7 +112,12 @@ making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a fu
     [https://youtu.be/nR7oPrmyCP4](https://youtu.be/nR7oPrmyCP4)
 
 
-# Contract Work \
+# Screencasts Online
+
+* Revising Resume: [TODO add URL here]()
+
+
+# Contract Work
 *(past, completed; order is arbitrary)*
 
 * memory alloc latency & SEGV resilience R&D, in the ad industry. They had a very old but polished C codebase and were in a highly competitive space where any downtime, wasted milliseconds or blocked threads meant significantly lower revenue. Thus they were "chasing 9's" and my challenge was to try giving their legacy engine a performance and uptime upgrade, by any means possible. I believe I succeeded. I delivered new C code, benchmarks, diagrams and a report. \
@@ -334,5 +339,5 @@ I once built and ran a tiny indie computer game biz which sold access/license to
 * **Mastodon:** [https://toot.io/synlogic](https://toot.io/synlogic)
 * **HN:**       [https://news.ycombinator.com/user?id=syngrog66](https://news.ycombinator.com/user?id=syngrog66)
 
-UPDATED: 2024 August 1
+UPDATED: 2024 August 7
 
