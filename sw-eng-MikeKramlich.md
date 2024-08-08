@@ -106,15 +106,18 @@ making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a fu
     [https://synystron.substack.com/p/time-wasters-what-and-why-to-avoid](https://synystron.substack.com/p/time-wasters-what-and-why-to-avoid)
 
 
-# Talks & Presentations
+# Slideshows & Presentations
 
 * Computer Hardware & Software Performance (Talk 1, v4) \
     [https://youtu.be/nR7oPrmyCP4](https://youtu.be/nR7oPrmyCP4)
 
 
-# Screencasts Online
+# Screencasts
 
-* Revising Resume: [TODO add URL here]()
+*These are screen recordings of live work sessions by me (hands on keyboard and providing spoken narration as I go) doing software development (or dev-adjacent) tasks.* \
+
+* Revising Resume: \
+[link to YouTube video (9 min 37 sec)](https://youtu.be/dBcUskUVXVo)
 
 
 # Contract Work
