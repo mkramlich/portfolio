@@ -117,7 +117,8 @@ making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a fu
 *These are screen recordings of live work sessions by me (hands on keyboard and providing spoken narration as I go) doing software development (or dev-adjacent) tasks.* \
 
 * Revising Resume: \
-[link to YouTube video (9 min 37 sec)](https://youtu.be/dBcUskUVXVo)
+[link to YouTube video (9 min 37 sec)](https://youtu.be/dBcUskUVXVo) \
+[link to git commit on GitHub](https://github.com/mkramlich/portfolio/commit/413392015035c90a3961547a1db5621b7d4daa7f)
 
 
 # Contract Work
