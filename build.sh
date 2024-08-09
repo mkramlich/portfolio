@@ -1,10 +1,12 @@
 #!/bin/sh
-set -e
+set -euo pipefail
 
 TITLE="Resume/CV of Mike Kramlich"
 AUTHOR="Mike Kramlich"
-VERSION="2024 August 7"
+VERSION=`date "+%Y %b %d"`
 BASE=sw-eng-MikeKramlich
+
+cat $BASE.src.md | sed "/\$VERSION/s//$VERSION/" > $BASE.md
 
 cp $BASE.md $BASE.txt
 

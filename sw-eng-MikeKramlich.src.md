@@ -343,5 +343,5 @@ I once built and ran a tiny indie computer game biz which sold access/license to
 * **Mastodon:** [https://toot.io/synlogic](https://toot.io/synlogic)
 * **HN:**       [https://news.ycombinator.com/user?id=syngrog66](https://news.ycombinator.com/user?id=syngrog66)
 
-UPDATED: 2024 Aug 08
+UPDATED: $VERSION
 
