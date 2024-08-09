@@ -69,7 +69,7 @@ remote contracting & expert consulting, and (sometimes, also, have made/sold) in
 tech lead on natsec-related "counter-disinfo" project
 
 * **Orbitz/Cheaptickets** \
-(on staff 4.5 years total) senior software engineer in Ops/Arch and core/cross-cutting tech (JVM, GC/leaks/crashes, logs, caches, sessions, thread pools (eg. fixing critical concurrency bugs), database conn layer, perf issue resolution, pager on-call if outages)
+(on staff 4.5 years total) senior software engineer in Ops/Arch and core/cross-cutting tech (JVM, GC, leaks, crashes, logs, caches, sessions, thread pools (eg. fixing critical concurrency bugs), database conn layer, perf issue resolution, pager on-call if outages)
 
 
 # Side Projects
@@ -339,7 +339,7 @@ I once built and ran a tiny indie computer game biz which sold access/license to
 * **email:**    [groglogic@gmail.com](mailto:groglogic+ghport@gmail.com)
 * **GitHub:**   [https://github.com/mkramlich](https://github.com/mkramlich)
 * **Substack:** [https://synystron.substack.com](https://synystron.substack.com)
-* **Mastodon:** [https://toot.io/synlogic](https://toot.io/synlogic)
+* **Mastodon:** [https://toot.io/@synlogic](https://toot.io/@synlogic)
 * **HN:**       [https://news.ycombinator.com/user?id=syngrog66](https://news.ycombinator.com/user?id=syngrog66)
 
 UPDATED: 2024 Aug 08
