@@ -114,7 +114,7 @@ making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a fu
 
 # Screencasts
 
-*These are screen recordings of live work sessions by me (hands on keyboard and providing spoken narration as I go) doing software development (or dev-adjacent) tasks.* \
+*These are screen recordings of live work sessions by me (hands on keyboard and providing spoken narration as I go) doing software development (or dev-adjacent) tasks.*
 
 * Revising Resume: \
 [link to YouTube video (9 min 37 sec)](https://youtu.be/dBcUskUVXVo) \
@@ -313,8 +313,7 @@ I once built and ran a tiny indie computer game biz which sold access/license to
 * try to always be learning, improving & helping teach or inspire others
 * prefer people who use my time *efficiently*
 * prefer people who let me work for/with them in a way that *maximizes* what I can deliver
-* prefer people who *demonstrate* how much they value me (not necessarily in $!)
-* ... and I strive to do the same thing, in return
+* prefer people who *demonstrate* how much they value me (not necessarily in money) and I strive to do the same thing, in return
 * NO UNPAID WORK
 * want free samples of my code? look in my public repos. Golang, C, Java, Python
 * TO BE VERY CLEAR (UPFRONT): I am not at a stage in my career where I have to prove I'm a programmer
