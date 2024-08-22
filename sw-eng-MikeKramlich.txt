@@ -117,8 +117,11 @@ making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a fu
 *These are screen recordings of live work sessions by me (hands on keyboard and providing spoken narration as I go) doing software development (or dev-adjacent) tasks.*
 
 * Revising Resume: \
-[link to YouTube video (9 min 37 sec)](https://youtu.be/dBcUskUVXVo) \
+[link to YouTube video (10 min)](https://youtu.be/dBcUskUVXVo) \
 [link to git commit on GitHub](https://github.com/mkramlich/portfolio/commit/413392015035c90a3961547a1db5621b7d4daa7f)
+
+* Tweaking Slartboz: \
+[link to YouTube video (12 min)](https://youtu.be/_BCZL3h9Zf4)
 
 
 # Contract Work
@@ -202,7 +205,7 @@ conceived, designed, coded an original system for web-based, text-oriented educa
     UPDATE: In the summer of 2020, around July 4th, I spent a day refurbishing my old "cobweb-gathered" code and fixed it to work again with the then latest version of Java. Which was Oracle's 14. It had previously assumed Sun's Java 1.4! \
     tech: Java, AWT, Swing, OO, XML \
     [Manifesto Games](https://en.m.wikipedia.org/wiki/Manifesto_Games) \
-    [Johnny's review](./misc/shstars_johnny_wilson_preview.txt) \
+    [Johnny's review](https://github.com/mkramlich/portfolio/blob/master/misc/shstars_johnny_wilson_preview.txt) \
     ![source tree, peek around](./sshots/shstars_sshot01_2024feb25.png) \
     ![gameplay, on strategy map](./sshots/shstars_sshot04_2020jul3.png)
 
@@ -211,7 +214,7 @@ conceived, designed, coded, documented, released, marketed, promoted, sold, supp
     tech: Python, curses, OOP, game character AI (no NNs or LLMs, haha), PayPal \
     promo artist: [Richard Pace](https://richardpace.artstation.com) \
     ![screenshot slideshow](./sshots/dbz-anim-sshot.gif) \
-    [GenghisCon 2008 booth photo](./sshots/dbz-gc2009-booth4.jpeg) \
+    ![GenghisCon 2008 booth photo](./sshots/dbz-gc2009-booth4.jpeg) \
     code: [https://github.com/mkramlich/Dead_By_Zombie](https://github.com/mkramlich/Dead_By_Zombie)
 
 * **Apocalypse Dawn** \
@@ -236,7 +239,7 @@ designed and coded a small game with a subset of Empire's features. \
 * **Tactihack2** \
 unfinished spike which recreates a subset of my previous game Tacti-Hack's features, but this time with a GUI and client/server arch (with multiple client types included to prove it, including CLI). \
     tech: Python, PyGame, 0MQ \
-    code: [https://github.com/mkramlich/Tactihack2]()
+    code: [https://github.com/mkramlich/Tactihack2](https://github.com/mkramlich/Tactihack2)
 
 * **Tacti-Hack** \
 conceived, designed and coded an original hotseat multiplayer turn-based computer game about team-of-individuals/mission-driven/level-based combat with an engine-vs-scenario modular architecture, and play mechanics modeled after a mix of the classic game X-COM: UFO Defense with a G.I. Joe-like theme/setting and a Rogue-like UI. \
@@ -342,5 +345,5 @@ I once built and ran a tiny indie computer game biz which sold access/license to
 * **Mastodon:** [https://toot.io/@synlogic](https://toot.io/@synlogic)
 * **HN:**       [https://news.ycombinator.com/user?id=syngrog66](https://news.ycombinator.com/user?id=syngrog66)
 
-UPDATED: 2024 Aug 08
+UPDATED: 2024 Aug 22
 
