@@ -6,11 +6,9 @@ programmer, software engineer, technical lead/architect
 
 langs: Golang (Go), C, Python, Java, Unixy shell scripts
 
-in the past (so avoid, but can lean on): JavaScript (JS), C++, Objective-C
-
 OS: Linux (POSIX/UNIX), macOS/OSX
 
-misc: SQL (sqlite, MySQL & Postgres); Docker; Kubernetes (some, once); AWS (mainly EC2 & S3); HTTP; TCP/IP; sockets; JSON; XML; Terminal-based workflow & CLI tool ecosystem; Apache; Nginx; memcached; Redis
+misc: SQL (sqlite, Postgres); Docker; Kubernetes (some, once); AWS (mainly EC2 & S3); HTTP; TCP/IP; sockets; JSON; XML; Terminal-based workflow & CLI tool ecosystem; Apache; Nginx; memcached; Redis
 
 # Software Type Experience
 
@@ -136,9 +134,6 @@ making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a fu
 
 * created a Bayesian inference engine for a client in the online insurance industry. \
     tech: Java, Python, SQL, bash, Linux, machine learning (ML)
-
-* fixed legacy bugs and added features to a "carnival style" web game. \
-    tech: Flash, ActionScript 3.0, Python, Django, Audacity, Gimp, Linux
 
 * fixed legacy bugs and significantly improved stability, latency and scalability of an iOS app in the geospatial imaging industry. \
     tech: iOS SDK, Objective-C, CocoaTouch, XCode
