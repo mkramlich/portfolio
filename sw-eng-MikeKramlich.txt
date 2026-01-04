@@ -75,7 +75,7 @@ tech lead on natsec-related "counter-disinfo" project
 
 * **LatLearn** \
 latency perf instrumentation & reporting lib for Golang (as FOSS). Nanosecond scale measurements. Stat calcs for each named span, across set of all samples: min, max, last, mean, weight, cumul. Report file gen (in plain text so VCS friendly, enough structure for parsing.) Option to run common benchmarks of interest. Host & runtime config probe, added to reports. Overhead self-sampling, and option to auto-compensate in reported values. Variant span families: metric groups that vary only by task param values, environmental conditions or alternate flow paths or function exits. Concurrent & thread-safe by design. Plays well with Contexts, defer and panic. This lib provides features Golang does not out-of-the-box, and neither do generic/lang-agnostic system tools or profilers. Transparent and makes no "calls home" so maximally trustable when integrating into app code. Also: zero price. \
-    [https://github.com/mkramlich/latlearn](https://github.com/mkramlich/latlearn)
+    [https://codeberg.org/grogsynlog42/LatLearn](https://codeberg.org/grogsynlog42/LatLearn)
 
 * **Tight Lightning** \
 writing a book about all things related to compute system performance, scalability, efficiency and cost (in effect: HPC). been working on it in my free time, slowly, on and off, for a few years. hope to finish 1st ed and publish sometime in 2024
@@ -340,5 +340,5 @@ I once built and ran a tiny indie computer game biz which sold access/license to
 * **Mastodon:** [https://toot.io/@synlogic](https://toot.io/@synlogic)
 * **HN:**       [https://news.ycombinator.com/user?id=syngrog66](https://news.ycombinator.com/user?id=syngrog66)
 
-UPDATED: 2024 Aug 30
+UPDATED: 2026 Jan 03
 
