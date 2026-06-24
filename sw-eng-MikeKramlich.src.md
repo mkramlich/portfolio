@@ -51,7 +51,7 @@ misc: SQL (sqlite, Postgres); Docker; Kubernetes (some, once); AWS (mainly EC2 &
 * solid mental model of computing systems & associated fundamentals
 * strong opinions, weakly held
 * decades of professional experience
-* FOSS contributor, tool-maker and lib author (eg. my *LatLearn* on GitHub)
+* FOSS contributor, tool-maker and lib author (eg. my *LatLearn* on GitHub & Codeberg)
 * solved and shipped, over and over again
 * good writer and oral communicator
 * code samples in public repos on GitHub: \
@@ -75,13 +75,14 @@ tech lead on natsec-related "counter-disinfo" project
 
 * **LatLearn** \
 latency perf instrumentation & reporting lib for Golang (as FOSS). Nanosecond scale measurements. Stat calcs for each named span, across set of all samples: min, max, last, mean, weight, cumul. Report file gen (in plain text so VCS friendly, enough structure for parsing.) Option to run common benchmarks of interest. Host & runtime config probe, added to reports. Overhead self-sampling, and option to auto-compensate in reported values. Variant span families: metric groups that vary only by task param values, environmental conditions or alternate flow paths or function exits. Concurrent & thread-safe by design. Plays well with Contexts, defer and panic. This lib provides features Golang does not out-of-the-box, and neither do generic/lang-agnostic system tools or profilers. Transparent and makes no "calls home" so maximally trustable when integrating into app code. Also: zero price. \
-    [https://codeberg.org/grogsynlog42/LatLearn](https://codeberg.org/grogsynlog42/LatLearn)
+    [https://codeberg.org/grogsynlog42/LatLearn](https://codeberg.org/grogsynlog42/LatLearn) (cur)\
+    [https://github.com/mkramlich/LatLearn](https://github.com/mkramlich/LatLearn) (orig)
 
 * **Tight Lightning** \
-writing a book about all things related to compute system performance, scalability, efficiency and cost (in effect: HPC). been working on it in my free time, slowly, on and off, for a few years. hope to finish 1st ed and publish sometime in 2024
+writing a book about all things related to compute system performance, scalability, efficiency and cost (in effect: HPC). been working on it in my free time, slowly, on and off, for a few years. hope to finish 1st ed and publish sometime in 2026
 
 * **Slartboz** \
-making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a futuristic, sci-fi, post-apoc setting. style/theme for fans of Wasteland/Fallout, Idiocracy, HHGG (Douglas Adams), Stranger Things, X-COM and Dwarf Fortress. The engine is homegrown. And btw: I've been making game engines (both as an unpaid hobby in my free time, and, sometimes for clients or for the indie game market) for decades. My first public Rogue-like game (Dead By Zombie, in 2007) was commercial, turn-based and written in Python. \
+making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a futuristic, sci-fi, post-apoc setting. style/theme for fans of Wasteland/Fallout, Idiocracy, HHGG (Douglas Adams), Stranger Things, X-COM and Dwarf Fortress. The engine is homegrown. And btw: I've been making game engines (both as an unpaid hobby in my free time, and, sometimes for clients or for the indie game market) for decades. My first public Rogue-like game (Dead By Zombie, in 2007) was commercial, turn-based and written in Python. Note that there are many videos of the Slartboz WIP prototype in action on YouTube (with links from my slartboz-pub repo's README.)\
     tech: Golang (Go), ncurses (goncurses), VLC (via Go lib), LatLearn \
     promo: [https://github.com/mkramlich/slartboz-pub](https://github.com/mkramlich/slartboz-pub)
 
@@ -143,8 +144,10 @@ making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a fu
 
 * **The US Department of State (GEC)** \
 software research, product technical due diligence and architectural consulting as the Technical Lead of a team of outside, civilian expert contractors tasked with helping to quickly identify and objectively report on the best available commercial tools and relevant technology for the US government and its allies to counter or prevent online, foreign adversarial propaganda & disinformation (APD). Specifically focused on the kinds of APD operations believed by the US intelligence community to be carried out by traditionally hostile nation states such as China, Iran, and North Korea, but most especially by Russia. We evaluated many tools and technologies over the span of several months. We evaluated each candidate by dividing its qualities into several categories. I was responsible for the 6 most technical categories. The categories were: maintenance, interoperability, scalability, reliability, resistance to misuse, and security. For these categories I did the bulk of the research and had the dominant voice in deciding our final characterization, ratings, ranking, and recommendations. I was also the primary author of the text in their sections, in the final reports our team delivered. To be efficient and fair, our evaluation process used a filter funnel technique with multiple stages of increasing scrutiny, higher standards and greater time and energy investment, as well as delivering increasingly longer and more detailed & objective reports. In the later stages of the products I evaluated I was typically the main author of anywhere from one half to two thirds of the total page count of the report versions we delivered for the end client, the State Department. I also created and delivered an original questionnaire tailored to help us gather common relevant facts on the products we evaluated. It had 48 technical diligence questions spread across the categories that I was responsible for -- I devised all of them. I championed it as a way to both improve team speed and productivity. As well as to ensure thoroughness, and to boost the credibility of the project, both in the eyes of all client stakeholders and in the leadership of the companies we evaluated. \
-    [State's GEC](https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/) \
-    [C-SPAN video of my team's work cited in US Senate testimony by then-head of GEC](https://www.c-span.org/video/?470038-1/propaganda-disinformation)
+    [State's GEC (previous live)](https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/) \
+    [State's GEC (archived)](https://2017-2021.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/) \
+    [C-SPAN video of my team's work cited in US Senate testimony by then-head of GEC](https://www.c-span.org/video/?470038-1/propaganda-disinformation) \
+    [Wikipedia's GEC entry](https://en.wikipedia.org/wiki/Global_Engagement_Center)
 
 * created a Mac app for a startup client to serve as their first working product proof-of-concept and help them gain additional investment. It was a GUI workflow tool which allowed you to load video clips from local disk, then specify subsets of the clip (bound by a user mouse specified rectangular viewport range, as well as time start/stop moments) with a custom text annotation. Its purpose was to assist video production teams tasked with reviewing raw footage or clip drafts, then suggesting edits or otherwise sharing context-tied feedback with other stakeholders. \
     tech: Objective-C, Cocoa, QuickTime Pro, Mac video APIs, XCode, Mac
@@ -303,6 +306,8 @@ I once built and ran a tiny indie computer game biz which sold access/license to
 
 * "Also, in keeping with Mike Kramlich's design goal of keeping the game simple and focused on the combat, you don't design your ships a la Space Empires IV or develop your technology tees as per Master of Orion, Reach for the Stars, and Space Empires IV. You collect money, you build ships, you move, and you have combat. It's pretty simple in execution—more chess than Sid Meier's Civilization. It is more like the table-top marble game Albedo than Othello or Go. Movement is important, but it is restricted enough that grand flanking movements aren't likely. If you can maintain your front lines and make sure you have enough reserves to cover a potential breakthrough, you can keep pushing forward by taking a few systems each turn." -- by Johnny Wilson (ex editor of Computer Gaming World), in his preview of my game Shattered Stars, back when I ran ZodLogic Games and he was part of Manifesto Games
 
+* "Badass! Great job" - a founding CEO in EV recharging industry
+
 
 # Culture & Policies
 
@@ -326,19 +331,18 @@ I once built and ran a tiny indie computer game biz which sold access/license to
 
 # Misc
 
-* US citizen
-* Colorado resident
-* native US English speaker
+* US citizen & resident
+* US English native speaker (weak/rusty French & German)
 * hobbies: gaming; wargaming; LEGO; watching football; reading sci-fi & history; writing comedy; long walks/hikes for cardio exercise & boosting endurance health
 
 
 # Online Presence
 
-* **email:**    [groglogic@gmail.com](mailto:groglogic+ghport@gmail.com)
-* **GitHub:**   [https://github.com/mkramlich](https://github.com/mkramlich)
+* **email:** [groglogic@gmail.com](mailto:groglogic+ghport@gmail.com)
+* **GitHub:** [https://github.com/mkramlich](https://github.com/mkramlich)
+* **Codeberg:** [https://codeberg.org/grogsynlog42](https://codeberg.org/grogsynlog42)
 * **Substack:** [https://synystron.substack.com](https://synystron.substack.com)
-* **Mastodon:** [https://toot.io/@synlogic](https://toot.io/@synlogic)
-* **HN:**       [https://news.ycombinator.com/user?id=syngrog66](https://news.ycombinator.com/user?id=syngrog66)
+* **HN:** [https://news.ycombinator.com/user?id=syngrog66](https://news.ycombinator.com/user?id=syngrog66)
 
 UPDATED: $VERSION
 
