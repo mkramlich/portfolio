@@ -93,10 +93,7 @@ making a new real-time Rogue-like game (with a retro Terminal-based TUI) in a fu
     [https://synystron.substack.com/p/fixing-java-thread-and-database-connection](https://synystron.substack.com/p/fixing-java-thread-and-database-connection)
 
 * *Software Performance & Scalability: A Cheatsheet* \
-    [https://drive.google.com/file/d/1DsUG90gEkBtEsHJ7qJWR-VWLxHSTspcA/view](https://drive.google.com/file/d/1DsUG90gEkBtEsHJ7qJWR-VWLxHSTspcA/view)
-
-* *CLIFMO: My Software Engineering Philosophy, Preferences and Practices* \
-    [https://drive.google.com/file/d/1_zl1euz6sIhJ2VFonkaDS9grHNATBJfo/view?usp=sharing](https://drive.google.com/file/d/1_zl1euz6sIhJ2VFonkaDS9grHNATBJfo/view?usp=sharing)
+    [https://github.com/mkramlich/perfscalebook/blob/main/perf_scale_cheatsheet.pdf](https://github.com/mkramlich/perfscalebook/blob/main/perf_scale_cheatsheet.pdf)
 
 * *Video Calls Good and Bad* \
     [https://synystron.substack.com/p/video-calls-good-and-bad](https://synystron.substack.com/p/video-calls-good-and-bad)
