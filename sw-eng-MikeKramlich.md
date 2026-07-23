@@ -74,7 +74,7 @@ tech lead on natsec-related "counter-disinfo" project
 *(active or recent)*
 
 * **LatLearn** \
-latency perf instrumentation & reporting lib for Golang (as FOSS). Nanosecond scale measurements. Stat calcs for each named span, across set of all samples: min, max, last, mean, weight, cumul. Report file gen (in plain text so VCS friendly, enough structure for parsing.) Option to run common benchmarks of interest. Host & runtime config probe, added to reports. Overhead self-sampling, and option to auto-compensate in reported values. Variant span families: metric groups that vary only by task param values, environmental conditions or alternate flow paths or function exits. Concurrent & thread-safe by design. Plays well with Contexts, defer and panic. This lib provides features Golang does not out-of-the-box, and neither do generic/lang-agnostic system tools or profilers. Transparent and makes no "calls home" so maximally trustable when integrating into app code. Also: zero price. \
+latency perf instrumentation & reporting lib for Golang (as FOSS). Nanosecond scale measurements. Stat calcs for each named span, across set of all samples: min, max, last, mean, modes, p50, p99, p999, weight, cumul, share fraction. Report file gen (in plain text so VCS friendly, enough structure for parsing.) Option to run common benchmarks of interest. Host & runtime config probe, added to reports. Overhead self-sampling, and option to auto-compensate in reported values. Variant span families: metric groups that vary only by task param values, environmental conditions or alternate flow paths or function exits. Concurrent & thread-safe by design. Plays well with Contexts, defer and panic. This lib provides features Golang does not out-of-the-box, and neither do generic/lang-agnostic system tools or profilers. Transparent and makes no "calls home" so maximally trustable when integrating into app code. Also: zero price. \
     [https://codeberg.org/grogsynlog42/LatLearn](https://codeberg.org/grogsynlog42/LatLearn) (cur)\
     [https://github.com/mkramlich/LatLearn](https://github.com/mkramlich/LatLearn) (orig)
 
@@ -341,5 +341,5 @@ I once built and ran a tiny indie computer game biz which sold access/license to
 * **Substack:** [https://synystron.substack.com](https://synystron.substack.com)
 * **HN:** [https://news.ycombinator.com/user?id=syngrog66](https://news.ycombinator.com/user?id=syngrog66)
 
-UPDATED: 2026 Jun 29
+UPDATED: 2026 Jul 22
 
